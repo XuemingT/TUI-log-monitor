@@ -2,20 +2,33 @@
 
 A terminal-based system log monitoring dashboard with real-time updates, advanced filtering, and visualization.
 
-## screenshots
+## Screenshots
 
 ![Log Monitoring View](/screenshots/log_view.png)
 
-# keyboard shortcuts and help
+## Keyboard Shortcuts and Help
 
-KeyActionTabSwitch viewsFToggle follow mode/Enter filter modeTToggle timestampsNToggle line numbers↑/↓Scroll up/downPgUp/PgDnPage up/downQQuit
+| Shortcut    | Action              |
+| ----------- | ------------------- |
+| `Tab`       | Switch views        |
+| `F`         | Toggle follow mode  |
+| `Enter`     | Filter mode         |
+| `T`         | Toggle timestamps   |
+| `N`         | Toggle line numbers |
+| `↑/↓`       | Scroll up/down      |
+| `PgUp/PgDn` | Page up/down        |
+| `Q`         | Quit                |
 
-# usage
+## Usage
 
-# Monitor system logs
+### Monitor system logs
 
+```bash
 sudo cargo run --bin log_monitor /var/log/system.log
+```
 
-# Monitor any log file
+### Monitor any log file
 
+```bash
 cargo run --bin log_monitor /path/to/log/file.log
+```
