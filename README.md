@@ -2,11 +2,11 @@
 
 A terminal-based system log monitoring dashboard with real-time updates, advanced filtering, and visualization.
 
-## extremely cool and amazing screenshots
+## dashboard screenshots
 
 ![Log Monitoring View](/screenshots/log_view.png)
 
-## powerful statistics dashboard
+## statistics dashboard
 
 Get insights about your logs with interactive gauges showing distribution:
 
