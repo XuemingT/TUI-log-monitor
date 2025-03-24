@@ -1,0 +1,1834 @@
+[2025-03-23 16:43:58.137 - INFO - #1000] Memory usage optimized: freed 250MB
+[2025-03-23 16:43:58.790 - DEBUG - #1001] Connection attempt failed: timeout
+[2025-03-23 16:44:00.795 - INFO - #1002] Successfully processed batch job #89754
+[2025-03-23 16:44:01.620 - INFO - #1003] Processing user request
+[2025-03-23 16:44:02.519 - INFO - #1004] Processing user request
+[2025-03-23 16:44:03.173 - INFO - #1005] Cache miss detected for key 'user_profile'
+[2025-03-23 16:44:03.802 - INFO - #1006] Authentication successful for user 'admin'
+[2025-03-23 16:44:05.418 - WARNING - #1007] Connection attempt failed: timeout
+[2025-03-23 16:44:06.514 - INFO - #1008] Memory usage optimized: freed 250MB
+[2025-03-23 16:44:09.198 - INFO - #1009] Database query completed in 150ms
+[2025-03-23 16:44:09.964 - INFO - #1010] Background task started: report generation
+[2025-03-23 16:44:12.526 - INFO - #1011] Cache miss detected for key 'user_profile'
+[2025-03-23 16:44:14.076 - DEBUG - #1012] Authentication successful for user 'admin'
+[2025-03-23 16:44:14.701 - INFO - #1013] Connection attempt failed: timeout
+[2025-03-23 16:44:16.736 - INFO - #1014] Request received from 192.168.1.1
+[2025-03-23 16:44:19.693 - INFO - #1015] Memory usage optimized: freed 250MB
+[2025-03-23 16:44:20.576 - INFO - #1016] Cache miss detected for key 'user_profile'
+[2025-03-23 16:44:22.187 - INFO - #1017] Authentication successful for user 'admin'
+[2025-03-23 16:44:24.621 - DEBUG - #1018] Data validation error: missing required field
+[2025-03-23 16:44:27.258 - INFO - #1019] Processing user request
+[2025-03-23 16:44:29.781 - INFO - #1020] Successfully processed batch job #89754
+[2025-03-23 16:44:30.976 - INFO - #1021] Processing user request
+[2025-03-23 16:44:33.691 - INFO - #1022] File not found: config.json
+[2025-03-23 16:44:35.119 - DEBUG - #1023] Memory usage optimized: freed 250MB
+[2025-03-23 16:44:38.054 - DEBUG - #1024] Processing user request
+[2025-03-23 16:44:39.888 - DEBUG - #1025] Database query completed in 150ms
+[2025-03-23 16:44:42.364 - INFO - #1026] Data validation error: missing required field
+[2025-03-23 16:44:43.601 - DEBUG - #1027] Connection attempt failed: timeout
+[2025-03-23 16:44:46.058 - INFO - #1028] API rate limit reached for client ID #1234
+[2025-03-23 16:44:47.851 - DEBUG - #1029] Cache miss detected for key 'user_profile'
+[2025-03-23 16:44:49.159 - DEBUG - #1030] API rate limit reached for client ID #1234
+[2025-03-23 16:44:51.311 - INFO - #1031] File not found: config.json
+[2025-03-23 16:44:53.205 - INFO - #1032] Memory usage optimized: freed 250MB
+[2025-03-23 16:44:55.988 - INFO - #1033] Processing user request
+[2025-03-23 16:44:56.649 - INFO - #1034] API rate limit reached for client ID #1234
+[2025-03-23 16:44:58.343 - INFO - #1035] Background task started: report generation
+[2025-03-23 16:45:00.611 - INFO - #1036] Background task started: report generation
+[2025-03-23 16:45:02.920 - INFO - #1037] Processing user request
+[2025-03-23 16:45:03.701 - INFO - #1038] File not found: config.json
+[2025-03-23 16:45:06.583 - INFO - #1039] Successfully processed batch job #89754
+[2025-03-23 16:45:08.475 - DEBUG - #1040] API rate limit reached for client ID #1234
+[2025-03-23 16:45:09.778 - INFO - #1041] Cache miss detected for key 'user_profile'
+[2025-03-23 16:45:12.624 - WARNING - #1042] Memory usage optimized: freed 250MB
+[2025-03-23 16:45:14.269 - DEBUG - #1043] API rate limit reached for client ID #1234
+[2025-03-23 16:45:15.333 - INFO - #1044] Connection attempt failed: timeout
+[2025-03-23 16:45:17.941 - INFO - #1045] Connection attempt failed: timeout
+[2025-03-23 16:45:20.786 - INFO - #1046] Database query completed in 150ms
+[2025-03-23 16:45:23.587 - DEBUG - #1047] Background task started: report generation
+[2025-03-23 16:45:26.034 - INFO - #1048] Connection attempt failed: timeout
+[2025-03-23 16:45:27.765 - INFO - #1049] Memory usage optimized: freed 250MB
+[2025-03-23 16:45:30.373 - INFO - #1050] Request received from 192.168.1.1
+[2025-03-23 16:45:31.765 - INFO - #1051] Processing user request
+[2025-03-23 16:45:33.894 - INFO - #1052] Memory usage optimized: freed 250MB
+[2025-03-23 16:45:34.724 - INFO - #1053] Processing user request
+[2025-03-23 16:45:37.512 - INFO - #1054] Connection attempt failed: timeout
+[2025-03-23 16:45:40.438 - INFO - #1055] Processing user request
+[2025-03-23 16:45:42.246 - INFO - #1056] Database query completed in 150ms
+[2025-03-23 16:45:44.287 - DEBUG - #1057] Memory usage optimized: freed 250MB
+[2025-03-23 16:45:45.433 - INFO - #1058] Processing user request
+[2025-03-23 16:45:47.185 - INFO - #1059] Authentication successful for user 'admin'
+[2025-03-23 16:45:48.400 - INFO - #1060] Memory usage optimized: freed 250MB
+[2025-03-23 16:45:49.084 - DEBUG - #1061] Processing user request
+[2025-03-23 16:45:51.698 - INFO - #1062] Data validation error: missing required field
+[2025-03-23 16:45:54.230 - DEBUG - #1063] Data validation error: missing required field
+[2025-03-23 16:45:56.409 - INFO - #1064] Background task started: report generation
+[2025-03-23 16:45:57.271 - INFO - #1065] Database query completed in 150ms
+[2025-03-23 16:45:59.917 - INFO - #1066] Successfully processed batch job #89754
+[2025-03-23 16:46:02.341 - INFO - #1067] Database query completed in 150ms
+[2025-03-23 16:46:04.378 - INFO - #1068] Successfully processed batch job #89754
+[2025-03-23 16:46:05.464 - WARNING - #1069] Data validation error: missing required field
+[2025-03-23 16:46:06.025 - INFO - #1070] Memory usage optimized: freed 250MB
+[2025-03-23 16:46:08.378 - DEBUG - #1071] API rate limit reached for client ID #1234
+[2025-03-23 16:46:10.908 - DEBUG - #1072] Background task started: report generation
+[2025-03-23 16:46:12.169 - INFO - #1073] File not found: config.json
+[2025-03-23 16:46:13.306 - DEBUG - #1074] Successfully processed batch job #89754
+[2025-03-23 16:46:14.671 - INFO - #1075] Data validation error: missing required field
+[2025-03-23 16:46:15.796 - INFO - #1076] API rate limit reached for client ID #1234
+[2025-03-23 16:46:17.378 - DEBUG - #1077] Database query completed in 150ms
+[2025-03-23 16:46:18.244 - INFO - #1078] Processing user request
+[2025-03-23 16:46:19.838 - DEBUG - #1079] Database query completed in 150ms
+[2025-03-23 16:46:21.624 - INFO - #1080] Request received from 192.168.1.1
+[2025-03-23 16:46:23.301 - DEBUG - #1081] Request received from 192.168.1.1
+[2025-03-23 16:46:25.538 - ERROR - #1082] Memory usage optimized: freed 250MB
+[2025-03-23 16:46:27.401 - INFO - #1083] Authentication successful for user 'admin'
+[2025-03-23 16:46:30.353 - INFO - #1084] Data validation error: missing required field
+[2025-03-23 16:46:33.256 - DEBUG - #1085] Background task started: report generation
+[2025-03-23 16:46:35.653 - INFO - #1086] Connection attempt failed: timeout
+[2025-03-23 16:46:36.905 - INFO - #1087] Cache miss detected for key 'user_profile'
+[2025-03-23 16:46:39.484 - DEBUG - #1088] Data validation error: missing required field
+[2025-03-23 16:46:41.385 - INFO - #1089] Authentication successful for user 'admin'
+[2025-03-23 16:46:42.438 - INFO - #1090] Request received from 192.168.1.1
+[2025-03-23 16:46:44.432 - INFO - #1091] File not found: config.json
+[2025-03-23 16:46:46.867 - WARNING - #1092] API rate limit reached for client ID #1234
+[2025-03-23 16:46:47.550 - INFO - #1093] File not found: config.json
+[2025-03-23 16:46:49.119 - DEBUG - #1094] Successfully processed batch job #89754
+[2025-03-23 16:46:50.582 - INFO - #1095] Successfully processed batch job #89754
+[2025-03-23 16:46:53.488 - INFO - #1096] API rate limit reached for client ID #1234
+[2025-03-23 16:46:56.415 - WARNING - #1097] API rate limit reached for client ID #1234
+[2025-03-23 16:46:58.494 - INFO - #1000] Authentication successful for user 'admin'
+[2025-03-23 16:46:58.620 - INFO - #1098] Data validation error: missing required field
+[2025-03-23 16:46:59.450 - INFO - #1099] Request received from 192.168.1.1
+[2025-03-23 16:47:00.122 - INFO - #1001] Request received from 192.168.1.1
+[2025-03-23 16:47:02.012 - INFO - #1100] Authentication successful for user 'admin'
+[2025-03-23 16:47:02.788 - INFO - #1002] Cache miss detected for key 'user_profile'
+[2025-03-23 16:47:03.178 - INFO - #1101] Request received from 192.168.1.1
+[2025-03-23 16:47:04.687 - INFO - #1102] API rate limit reached for client ID #1234
+[2025-03-23 16:47:04.868 - INFO - #1003] Data validation error: missing required field
+[2025-03-23 16:47:05.685 - DEBUG - #1103] Database query completed in 150ms
+[2025-03-23 16:47:07.076 - DEBUG - #1004] Cache miss detected for key 'user_profile'
+[2025-03-23 16:47:07.326 - INFO - #1104] Background task started: report generation
+[2025-03-23 16:47:07.922 - INFO - #1105] Request received from 192.168.1.1
+[2025-03-23 16:47:09.639 - WARNING - #1005] Authentication successful for user 'admin'
+[2025-03-23 16:47:10.499 - INFO - #1106] Authentication successful for user 'admin'
+[2025-03-23 16:47:12.351 - INFO - #1006] Successfully processed batch job #89754
+[2025-03-23 16:47:12.807 - DEBUG - #1107] API rate limit reached for client ID #1234
+[2025-03-23 16:47:13.518 - INFO - #1007] Database query completed in 150ms
+[2025-03-23 16:47:15.185 - DEBUG - #1108] Database query completed in 150ms
+[2025-03-23 16:47:15.583 - INFO - #1008] Successfully processed batch job #89754
+[2025-03-23 16:47:18.138 - DEBUG - #1109] Authentication successful for user 'admin'
+[2025-03-23 16:47:18.307 - INFO - #1009] Background task started: report generation
+[2025-03-23 16:47:18.931 - INFO - #1010] Authentication successful for user 'admin'
+[2025-03-23 16:47:19.061 - INFO - #1110] Connection attempt failed: timeout
+[2025-03-23 16:47:20.309 - INFO - #1111] Cache miss detected for key 'user_profile'
+[2025-03-23 16:47:20.849 - INFO - #1112] Request received from 192.168.1.1
+[2025-03-23 16:47:21.168 - INFO - #1011] API rate limit reached for client ID #1234
+[2025-03-23 16:47:23.056 - DEBUG - #1113] Request received from 192.168.1.1
+[2025-03-23 16:47:23.880 - INFO - #1012] Authentication successful for user 'admin'
+[2025-03-23 16:47:25.067 - DEBUG - #1114] Processing user request
+[2025-03-23 16:47:25.161 - INFO - #1013] Connection attempt failed: timeout
+[2025-03-23 16:47:25.834 - INFO - #1115] Cache miss detected for key 'user_profile'
+[2025-03-23 16:47:26.375 - INFO - #1014] Request received from 192.168.1.1
+[2025-03-23 16:47:26.499 - INFO - #1116] Processing user request
+[2025-03-23 16:47:27.818 - INFO - #1117] Cache miss detected for key 'user_profile'
+[2025-03-23 16:47:27.918 - INFO - #1015] File not found: config.json
+[2025-03-23 16:47:29.975 - INFO - #1016] Data validation error: missing required field
+[2025-03-23 16:47:30.461 - DEBUG - #1118] Database query completed in 150ms
+[2025-03-23 16:47:30.517 - WARNING - #1017] Background task started: report generation
+[2025-03-23 16:47:31.010 - INFO - #1119] Processing user request
+[2025-03-23 16:47:31.814 - INFO - #1018] Database query completed in 150ms
+[2025-03-23 16:47:32.717 - DEBUG - #1120] Request received from 192.168.1.1
+[2025-03-23 16:47:33.652 - INFO - #1121] Request received from 192.168.1.1
+[2025-03-23 16:47:34.714 - INFO - #1019] Processing user request
+[2025-03-23 16:47:35.055 - DEBUG - #1122] Database query completed in 150ms
+[2025-03-23 16:47:35.390 - DEBUG - #1020] Request received from 192.168.1.1
+[2025-03-23 16:47:36.417 - INFO - #1021] Request received from 192.168.1.1
+[2025-03-23 16:47:36.694 - INFO - #1123] API rate limit reached for client ID #1234
+[2025-03-23 16:47:37.719 - INFO - #1022] Memory usage optimized: freed 250MB
+[2025-03-23 16:47:38.188 - INFO - #1124] Connection attempt failed: timeout
+[2025-03-23 16:47:39.994 - INFO - #1125] Successfully processed batch job #89754
+[2025-03-23 16:47:40.460 - INFO - #1023] Database query completed in 150ms
+[2025-03-23 16:47:41.622 - INFO - #1126] Request received from 192.168.1.1
+[2025-03-23 16:47:42.766 - DEBUG - #1024] Connection attempt failed: timeout
+[2025-03-23 16:47:42.817 - INFO - #1127] Database query completed in 150ms
+[2025-03-23 16:47:43.990 - INFO - #1128] API rate limit reached for client ID #1234
+[2025-03-23 16:47:45.224 - INFO - #1025] Data validation error: missing required field
+[2025-03-23 16:47:45.699 - INFO - #1129] Successfully processed batch job #89754
+[2025-03-23 16:47:46.023 - WARNING - #1026] Cache miss detected for key 'user_profile'
+[2025-03-23 16:47:47.444 - DEBUG - #1130] Authentication successful for user 'admin'
+[2025-03-23 16:47:48.131 - INFO - #1027] Background task started: report generation
+[2025-03-23 16:47:49.545 - INFO - #1028] API rate limit reached for client ID #1234
+[2025-03-23 16:47:49.649 - DEBUG - #1131] Request received from 192.168.1.1
+[2025-03-23 16:47:50.320 - INFO - #1029] Processing user request
+[2025-03-23 16:47:51.113 - INFO - #1030] Request received from 192.168.1.1
+[2025-03-23 16:47:51.702 - DEBUG - #1031] File not found: config.json
+[2025-03-23 16:47:52.386 - INFO - #1132] File not found: config.json
+[2025-03-23 16:47:53.102 - INFO - #1133] File not found: config.json
+[2025-03-23 16:47:54.071 - INFO - #1134] Request received from 192.168.1.1
+[2025-03-23 16:47:54.592 - DEBUG - #1032] API rate limit reached for client ID #1234
+[2025-03-23 16:47:56.547 - WARNING - #1135] Request received from 192.168.1.1
+[2025-03-23 16:47:57.584 - DEBUG - #1033] Processing user request
+[2025-03-23 16:47:58.316 - INFO - #1136] Connection attempt failed: timeout
+[2025-03-23 16:47:59.815 - DEBUG - #1034] Memory usage optimized: freed 250MB
+[2025-03-23 16:47:59.979 - INFO - #1137] API rate limit reached for client ID #1234
+[2025-03-23 16:48:00.961 - INFO - #1035] API rate limit reached for client ID #1234
+[2025-03-23 16:48:01.000 - INFO - #1138] Authentication successful for user 'admin'
+[2025-03-23 16:48:02.140 - INFO - #1139] Authentication successful for user 'admin'
+[2025-03-23 16:48:03.815 - INFO - #1036] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:03.842 - ERROR - #1140] File not found: config.json
+[2025-03-23 16:48:04.766 - INFO - #1141] Cache miss detected for key 'user_profile'
+[2025-03-23 16:48:06.052 - INFO - #1037] Database query completed in 150ms
+[2025-03-23 16:48:07.528 - INFO - #1142] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:07.885 - INFO - #1038] Cache miss detected for key 'user_profile'
+[2025-03-23 16:48:08.140 - WARNING - #1143] Authentication successful for user 'admin'
+[2025-03-23 16:48:10.143 - INFO - #1039] Processing user request
+[2025-03-23 16:48:10.632 - INFO - #1144] Background task started: report generation
+[2025-03-23 16:48:12.508 - DEBUG - #1145] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:12.908 - DEBUG - #1040] Successfully processed batch job #89754
+[2025-03-23 16:48:13.968 - WARNING - #1041] Data validation error: missing required field
+[2025-03-23 16:48:15.471 - INFO - #1146] Request received from 192.168.1.1
+[2025-03-23 16:48:16.658 - INFO - #1042] Authentication successful for user 'admin'
+[2025-03-23 16:48:17.762 - INFO - #1147] Processing user request
+[2025-03-23 16:48:17.844 - INFO - #1043] Connection attempt failed: timeout
+[2025-03-23 16:48:19.927 - DEBUG - #1044] API rate limit reached for client ID #1234
+[2025-03-23 16:48:20.460 - INFO - #1148] API rate limit reached for client ID #1234
+[2025-03-23 16:48:21.833 - ERROR - #1045] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:23.009 - DEBUG - #1149] Authentication successful for user 'admin'
+[2025-03-23 16:48:23.793 - INFO - #1150] Connection attempt failed: timeout
+[2025-03-23 16:48:24.100 - INFO - #1046] Processing user request
+[2025-03-23 16:48:24.471 - INFO - #1151] Connection attempt failed: timeout
+[2025-03-23 16:48:25.385 - INFO - #1047] Connection attempt failed: timeout
+[2025-03-23 16:48:26.563 - INFO - #1048] Connection attempt failed: timeout
+[2025-03-23 16:48:27.059 - INFO - #1152] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:28.294 - DEBUG - #1049] Request received from 192.168.1.1
+[2025-03-23 16:48:29.032 - INFO - #1050] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:29.084 - INFO - #1153] Connection attempt failed: timeout
+[2025-03-23 16:48:30.023 - INFO - #1051] Background task started: report generation
+[2025-03-23 16:48:30.202 - INFO - #1154] Authentication successful for user 'admin'
+[2025-03-23 16:48:31.101 - INFO - #1155] File not found: config.json
+[2025-03-23 16:48:31.456 - INFO - #1052] Processing user request
+[2025-03-23 16:48:32.646 - INFO - #1156] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:33.979 - DEBUG - #1157] Request received from 192.168.1.1
+[2025-03-23 16:48:33.990 - INFO - #1053] Cache miss detected for key 'user_profile'
+[2025-03-23 16:48:36.476 - INFO - #1054] Database query completed in 150ms
+[2025-03-23 16:48:36.874 - INFO - #1158] Successfully processed batch job #89754
+[2025-03-23 16:48:38.087 - INFO - #1055] API rate limit reached for client ID #1234
+[2025-03-23 16:48:38.787 - INFO - #1159] File not found: config.json
+[2025-03-23 16:48:39.886 - INFO - #1056] File not found: config.json
+[2025-03-23 16:48:40.689 - INFO - #1160] Background task started: report generation
+[2025-03-23 16:48:41.877 - INFO - #1161] File not found: config.json
+[2025-03-23 16:48:42.104 - INFO - #1057] Database query completed in 150ms
+[2025-03-23 16:48:43.289 - DEBUG - #1162] Successfully processed batch job #89754
+[2025-03-23 16:48:44.090 - DEBUG - #1163] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:44.598 - INFO - #1058] Connection attempt failed: timeout
+[2025-03-23 16:48:45.387 - DEBUG - #1164] Database query completed in 150ms
+[2025-03-23 16:48:46.293 - INFO - #1165] File not found: config.json
+[2025-03-23 16:48:47.031 - INFO - #1166] Database query completed in 150ms
+[2025-03-23 16:48:47.248 - DEBUG - #1059] Cache miss detected for key 'user_profile'
+[2025-03-23 16:48:48.070 - INFO - #1167] Data validation error: missing required field
+[2025-03-23 16:48:50.000 - INFO - #1060] API rate limit reached for client ID #1234
+[2025-03-23 16:48:50.067 - INFO - #1168] Background task started: report generation
+[2025-03-23 16:48:51.143 - INFO - #1169] API rate limit reached for client ID #1234
+[2025-03-23 16:48:52.080 - INFO - #1061] Data validation error: missing required field
+[2025-03-23 16:48:52.409 - ERROR - #1170] Request received from 192.168.1.1
+[2025-03-23 16:48:53.322 - DEBUG - #1062] Cache miss detected for key 'user_profile'
+[2025-03-23 16:48:53.925 - WARNING - #1171] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:55.301 - INFO - #1063] Connection attempt failed: timeout
+[2025-03-23 16:48:55.700 - INFO - #1172] Authentication successful for user 'admin'
+[2025-03-23 16:48:56.175 - INFO - #1064] Request received from 192.168.1.1
+[2025-03-23 16:48:57.576 - INFO - #1173] Authentication successful for user 'admin'
+[2025-03-23 16:48:57.841 - DEBUG - #1065] Memory usage optimized: freed 250MB
+[2025-03-23 16:48:58.105 - ERROR - #1174] Authentication successful for user 'admin'
+[2025-03-23 16:48:58.513 - INFO - #1066] File not found: config.json
+[2025-03-23 16:48:58.919 - WARNING - #1175] API rate limit reached for client ID #1234
+[2025-03-23 16:49:00.665 - INFO - #1176] Cache miss detected for key 'user_profile'
+[2025-03-23 16:49:00.785 - INFO - #1067] Memory usage optimized: freed 250MB
+[2025-03-23 16:49:01.341 - WARNING - #1068] Background task started: report generation
+[2025-03-23 16:49:02.009 - INFO - #1177] Successfully processed batch job #89754
+[2025-03-23 16:49:02.734 - INFO - #1069] Data validation error: missing required field
+[2025-03-23 16:49:04.747 - INFO - #1070] Processing user request
+[2025-03-23 16:49:04.905 - DEBUG - #1178] Cache miss detected for key 'user_profile'
+[2025-03-23 16:49:05.319 - INFO - #1071] Request received from 192.168.1.1
+[2025-03-23 16:49:06.318 - INFO - #1179] Connection attempt failed: timeout
+[2025-03-23 16:49:06.883 - INFO - #1180] API rate limit reached for client ID #1234
+[2025-03-23 16:49:07.440 - DEBUG - #1072] Request received from 192.168.1.1
+[2025-03-23 16:49:08.981 - WARNING - #1181] Successfully processed batch job #89754
+[2025-03-23 16:49:09.699 - INFO - #1073] Connection attempt failed: timeout
+[2025-03-23 16:49:10.292 - INFO - #1074] Authentication successful for user 'admin'
+[2025-03-23 16:49:11.226 - INFO - #1182] Database query completed in 150ms
+[2025-03-23 16:49:12.309 - INFO - #1183] Authentication successful for user 'admin'
+[2025-03-23 16:49:12.653 - WARNING - #1075] Successfully processed batch job #89754
+[2025-03-23 16:49:13.142 - INFO - #1184] Connection attempt failed: timeout
+[2025-03-23 16:49:13.939 - INFO - #1076] Request received from 192.168.1.1
+[2025-03-23 16:49:14.624 - INFO - #1185] Cache miss detected for key 'user_profile'
+[2025-03-23 16:49:15.731 - INFO - #1186] Request received from 192.168.1.1
+[2025-03-23 16:49:16.266 - INFO - #1187] Processing user request
+[2025-03-23 16:49:16.807 - INFO - #1077] API rate limit reached for client ID #1234
+[2025-03-23 16:49:18.935 - INFO - #1188] API rate limit reached for client ID #1234
+[2025-03-23 16:49:19.711 - INFO - #1078] Background task started: report generation
+[2025-03-23 16:49:20.850 - INFO - #1079] Successfully processed batch job #89754
+[2025-03-23 16:49:21.483 - DEBUG - #1189] Authentication successful for user 'admin'
+[2025-03-23 16:49:22.023 - INFO - #1190] Data validation error: missing required field
+[2025-03-23 16:49:22.402 - DEBUG - #1080] Connection attempt failed: timeout
+[2025-03-23 16:49:24.002 - INFO - #1191] Database query completed in 150ms
+[2025-03-23 16:49:24.945 - INFO - #1081] Processing user request
+[2025-03-23 16:49:25.928 - DEBUG - #1192] Background task started: report generation
+[2025-03-23 16:49:26.597 - INFO - #1082] Processing user request
+[2025-03-23 16:49:26.808 - DEBUG - #1193] Processing user request
+[2025-03-23 16:49:29.111 - INFO - #1083] Data validation error: missing required field
+[2025-03-23 16:49:29.761 - DEBUG - #1194] Authentication successful for user 'admin'
+[2025-03-23 16:49:31.050 - INFO - #1084] Memory usage optimized: freed 250MB
+[2025-03-23 16:49:32.175 - DEBUG - #1195] Request received from 192.168.1.1
+[2025-03-23 16:49:32.627 - INFO - #1085] API rate limit reached for client ID #1234
+[2025-03-23 16:49:34.338 - WARNING - #1086] Request received from 192.168.1.1
+[2025-03-23 16:49:34.616 - INFO - #1196] Connection attempt failed: timeout
+[2025-03-23 16:49:35.826 - DEBUG - #1087] Memory usage optimized: freed 250MB
+[2025-03-23 16:49:36.968 - DEBUG - #1197] API rate limit reached for client ID #1234
+[2025-03-23 16:49:37.445 - WARNING - #1088] Data validation error: missing required field
+[2025-03-23 16:49:37.619 - INFO - #1198] Successfully processed batch job #89754
+[2025-03-23 16:49:39.356 - INFO - #1199] Memory usage optimized: freed 250MB
+[2025-03-23 16:49:40.147 - INFO - #1089] Authentication successful for user 'admin'
+[2025-03-23 16:49:40.823 - WARNING - #1200] Background task started: report generation
+[2025-03-23 16:49:41.590 - DEBUG - #1201] Successfully processed batch job #89754
+[2025-03-23 16:49:42.216 - INFO - #1090] Authentication successful for user 'admin'
+[2025-03-23 16:49:43.093 - INFO - #1091] Authentication successful for user 'admin'
+[2025-03-23 16:49:43.254 - INFO - #1202] Memory usage optimized: freed 250MB
+[2025-03-23 16:49:44.366 - DEBUG - #1203] API rate limit reached for client ID #1234
+[2025-03-23 16:49:46.050 - INFO - #1092] Successfully processed batch job #89754
+[2025-03-23 16:49:46.234 - INFO - #1204] Connection attempt failed: timeout
+[2025-03-23 16:49:47.595 - INFO - #1093] Authentication successful for user 'admin'
+[2025-03-23 16:49:48.030 - INFO - #1205] Database query completed in 150ms
+[2025-03-23 16:49:48.653 - INFO - #1206] Processing user request
+[2025-03-23 16:49:50.291 - INFO - #1094] File not found: config.json
+[2025-03-23 16:49:51.219 - INFO - #1207] API rate limit reached for client ID #1234
+[2025-03-23 16:49:53.255 - INFO - #1095] Data validation error: missing required field
+[2025-03-23 16:49:53.981 - INFO - #1208] Cache miss detected for key 'user_profile'
+[2025-03-23 16:49:54.448 - WARNING - #1096] Connection attempt failed: timeout
+[2025-03-23 16:49:55.820 - INFO - #1097] Connection attempt failed: timeout
+[2025-03-23 16:49:56.799 - DEBUG - #1209] Memory usage optimized: freed 250MB
+[2025-03-23 16:49:58.505 - INFO - #1098] Database query completed in 150ms
+[2025-03-23 16:49:59.502 - INFO - #1210] Connection attempt failed: timeout
+[2025-03-23 16:49:59.571 - INFO - #1099] Processing user request
+[2025-03-23 16:50:01.682 - DEBUG - #1211] Successfully processed batch job #89754
+[2025-03-23 16:50:02.334 - INFO - #1100] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:03.280 - ERROR - #1212] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:04.131 - DEBUG - #1101] Connection attempt failed: timeout
+[2025-03-23 16:50:04.793 - INFO - #1102] Connection attempt failed: timeout
+[2025-03-23 16:50:05.813 - INFO - #1213] Background task started: report generation
+[2025-03-23 16:50:07.322 - INFO - #1214] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:07.402 - INFO - #1103] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:08.152 - INFO - #1215] Request received from 192.168.1.1
+[2025-03-23 16:50:08.703 - INFO - #1104] Successfully processed batch job #89754
+[2025-03-23 16:50:10.357 - INFO - #1216] Authentication successful for user 'admin'
+[2025-03-23 16:50:10.959 - ERROR - #1217] File not found: config.json
+[2025-03-23 16:50:11.419 - INFO - #1105] Data validation error: missing required field
+[2025-03-23 16:50:13.318 - WARNING - #1106] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:13.623 - INFO - #1218] Data validation error: missing required field
+[2025-03-23 16:50:15.427 - INFO - #1107] Authentication successful for user 'admin'
+[2025-03-23 16:50:15.940 - WARNING - #1219] Data validation error: missing required field
+[2025-03-23 16:50:17.143 - INFO - #1108] Authentication successful for user 'admin'
+[2025-03-23 16:50:17.737 - DEBUG - #1220] Request received from 192.168.1.1
+[2025-03-23 16:50:18.312 - INFO - #1221] Processing user request
+[2025-03-23 16:50:19.149 - INFO - #1222] Authentication successful for user 'admin'
+[2025-03-23 16:50:19.786 - INFO - #1109] Successfully processed batch job #89754
+[2025-03-23 16:50:20.702 - INFO - #1223] Database query completed in 150ms
+[2025-03-23 16:50:20.878 - INFO - #1110] Memory usage optimized: freed 250MB
+[2025-03-23 16:50:21.808 - INFO - #1111] Authentication successful for user 'admin'
+[2025-03-23 16:50:23.227 - INFO - #1112] API rate limit reached for client ID #1234
+[2025-03-23 16:50:23.328 - INFO - #1224] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:24.236 - INFO - #1113] Successfully processed batch job #89754
+[2025-03-23 16:50:24.754 - DEBUG - #1114] Memory usage optimized: freed 250MB
+[2025-03-23 16:50:25.462 - INFO - #1225] Connection attempt failed: timeout
+[2025-03-23 16:50:26.005 - ERROR - #1226] API rate limit reached for client ID #1234
+[2025-03-23 16:50:26.738 - INFO - #1227] Connection attempt failed: timeout
+[2025-03-23 16:50:27.248 - INFO - #1115] Authentication successful for user 'admin'
+[2025-03-23 16:50:29.123 - WARNING - #1116] Successfully processed batch job #89754
+[2025-03-23 16:50:29.614 - INFO - #1228] File not found: config.json
+[2025-03-23 16:50:30.312 - INFO - #1117] Authentication successful for user 'admin'
+[2025-03-23 16:50:31.025 - INFO - #1118] Data validation error: missing required field
+[2025-03-23 16:50:31.482 - INFO - #1229] API rate limit reached for client ID #1234
+[2025-03-23 16:50:32.266 - INFO - #1230] Database query completed in 150ms
+[2025-03-23 16:50:32.882 - INFO - #1119] Connection attempt failed: timeout
+[2025-03-23 16:50:33.963 - INFO - #1231] API rate limit reached for client ID #1234
+[2025-03-23 16:50:34.318 - INFO - #1120] Request received from 192.168.1.1
+[2025-03-23 16:50:35.752 - INFO - #1121] Background task started: report generation
+[2025-03-23 16:50:35.964 - DEBUG - #1232] API rate limit reached for client ID #1234
+[2025-03-23 16:50:37.008 - INFO - #1122] Request received from 192.168.1.1
+[2025-03-23 16:50:38.651 - INFO - #1233] Data validation error: missing required field
+[2025-03-23 16:50:38.813 - ERROR - #1123] Request received from 192.168.1.1
+[2025-03-23 16:50:40.078 - WARNING - #1124] API rate limit reached for client ID #1234
+[2025-03-23 16:50:41.056 - DEBUG - #1125] Successfully processed batch job #89754
+[2025-03-23 16:50:41.526 - INFO - #1234] API rate limit reached for client ID #1234
+[2025-03-23 16:50:42.628 - INFO - #1235] Background task started: report generation
+[2025-03-23 16:50:43.455 - INFO - #1126] Request received from 192.168.1.1
+[2025-03-23 16:50:43.818 - INFO - #1236] Authentication successful for user 'admin'
+[2025-03-23 16:50:45.576 - INFO - #1237] File not found: config.json
+[2025-03-23 16:50:46.260 - INFO - #1127] API rate limit reached for client ID #1234
+[2025-03-23 16:50:48.385 - INFO - #1238] Background task started: report generation
+[2025-03-23 16:50:48.866 - INFO - #1128] Request received from 192.168.1.1
+[2025-03-23 16:50:49.081 - INFO - #1239] Connection attempt failed: timeout
+[2025-03-23 16:50:51.234 - INFO - #1240] Authentication successful for user 'admin'
+[2025-03-23 16:50:51.497 - INFO - #1129] API rate limit reached for client ID #1234
+[2025-03-23 16:50:52.463 - INFO - #1130] Authentication successful for user 'admin'
+[2025-03-23 16:50:52.677 - INFO - #1241] Authentication successful for user 'admin'
+[2025-03-23 16:50:53.478 - DEBUG - #1131] Background task started: report generation
+[2025-03-23 16:50:53.916 - INFO - #1242] Background task started: report generation
+[2025-03-23 16:50:54.854 - INFO - #1132] Memory usage optimized: freed 250MB
+[2025-03-23 16:50:54.990 - DEBUG - #1243] Authentication successful for user 'admin'
+[2025-03-23 16:50:55.841 - INFO - #1133] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:56.844 - INFO - #1134] File not found: config.json
+[2025-03-23 16:50:57.575 - INFO - #1244] Cache miss detected for key 'user_profile'
+[2025-03-23 16:50:57.954 - INFO - #1135] Successfully processed batch job #89754
+[2025-03-23 16:50:59.283 - INFO - #1136] File not found: config.json
+[2025-03-23 16:51:00.013 - INFO - #1137] Data validation error: missing required field
+[2025-03-23 16:51:00.237 - INFO - #1245] Request received from 192.168.1.1
+[2025-03-23 16:51:00.924 - INFO - #1138] Database query completed in 150ms
+[2025-03-23 16:51:02.054 - INFO - #1246] Request received from 192.168.1.1
+[2025-03-23 16:51:02.177 - INFO - #1139] Database query completed in 150ms
+[2025-03-23 16:51:03.022 - INFO - #1247] API rate limit reached for client ID #1234
+[2025-03-23 16:51:03.603 - INFO - #1248] API rate limit reached for client ID #1234
+[2025-03-23 16:51:03.852 - INFO - #1140] Database query completed in 150ms
+[2025-03-23 16:51:04.551 - INFO - #1249] File not found: config.json
+[2025-03-23 16:51:06.474 - INFO - #1141] Processing user request
+[2025-03-23 16:51:07.044 - INFO - #1250] Authentication successful for user 'admin'
+[2025-03-23 16:51:07.944 - WARNING - #1251] Cache miss detected for key 'user_profile'
+[2025-03-23 16:51:08.483 - INFO - #1252] Background task started: report generation
+[2025-03-23 16:51:09.243 - DEBUG - #1142] Connection attempt failed: timeout
+[2025-03-23 16:51:10.119 - INFO - #1143] Connection attempt failed: timeout
+[2025-03-23 16:51:10.340 - INFO - #1253] Processing user request
+[2025-03-23 16:51:12.530 - INFO - #1254] Connection attempt failed: timeout
+[2025-03-23 16:51:12.573 - INFO - #1144] Successfully processed batch job #89754
+[2025-03-23 16:51:13.223 - INFO - #1255] Data validation error: missing required field
+[2025-03-23 16:51:13.972 - DEBUG - #1145] Background task started: report generation
+[2025-03-23 16:51:15.828 - INFO - #1256] Background task started: report generation
+[2025-03-23 16:51:16.886 - WARNING - #1146] Background task started: report generation
+[2025-03-23 16:51:17.528 - INFO - #1147] File not found: config.json
+[2025-03-23 16:51:18.351 - INFO - #1257] Connection attempt failed: timeout
+[2025-03-23 16:51:19.910 - INFO - #1148] Data validation error: missing required field
+[2025-03-23 16:51:20.381 - INFO - #1258] Successfully processed batch job #89754
+[2025-03-23 16:51:20.449 - INFO - #1149] Authentication successful for user 'admin'
+[2025-03-23 16:51:21.737 - INFO - #1150] File not found: config.json
+[2025-03-23 16:51:22.687 - INFO - #1259] Cache miss detected for key 'user_profile'
+[2025-03-23 16:51:24.180 - DEBUG - #1151] Successfully processed batch job #89754
+[2025-03-23 16:51:24.283 - ERROR - #1260] Database query completed in 150ms
+[2025-03-23 16:51:26.851 - INFO - #1152] File not found: config.json
+[2025-03-23 16:51:27.138 - INFO - #1261] Cache miss detected for key 'user_profile'
+[2025-03-23 16:51:27.904 - DEBUG - #1262] Background task started: report generation
+[2025-03-23 16:51:29.158 - INFO - #1153] Cache miss detected for key 'user_profile'
+[2025-03-23 16:51:30.613 - INFO - #1263] Request received from 192.168.1.1
+[2025-03-23 16:51:31.662 - INFO - #1264] Successfully processed batch job #89754
+[2025-03-23 16:51:31.761 - INFO - #1154] File not found: config.json
+[2025-03-23 16:51:33.284 - INFO - #1155] Background task started: report generation
+[2025-03-23 16:51:33.444 - INFO - #1265] Memory usage optimized: freed 250MB
+[2025-03-23 16:51:34.630 - INFO - #1266] Authentication successful for user 'admin'
+[2025-03-23 16:51:34.760 - WARNING - #1156] Database query completed in 150ms
+[2025-03-23 16:51:35.626 - DEBUG - #1157] Database query completed in 150ms
+[2025-03-23 16:51:36.145 - INFO - #1267] Successfully processed batch job #89754
+[2025-03-23 16:51:37.010 - INFO - #1268] Data validation error: missing required field
+[2025-03-23 16:51:38.594 - DEBUG - #1158] Connection attempt failed: timeout
+[2025-03-23 16:51:39.212 - INFO - #1269] Request received from 192.168.1.1
+[2025-03-23 16:51:40.145 - INFO - #1270] Database query completed in 150ms
+[2025-03-23 16:51:41.450 - INFO - #1159] Cache miss detected for key 'user_profile'
+[2025-03-23 16:51:42.320 - INFO - #1271] API rate limit reached for client ID #1234
+[2025-03-23 16:51:43.767 - INFO - #1160] Connection attempt failed: timeout
+[2025-03-23 16:51:44.721 - INFO - #1272] API rate limit reached for client ID #1234
+[2025-03-23 16:51:46.353 - INFO - #1161] Background task started: report generation
+[2025-03-23 16:51:47.374 - INFO - #1273] File not found: config.json
+[2025-03-23 16:51:48.109 - INFO - #1162] API rate limit reached for client ID #1234
+[2025-03-23 16:51:49.599 - INFO - #1274] Background task started: report generation
+[2025-03-23 16:51:50.339 - INFO - #1163] File not found: config.json
+[2025-03-23 16:51:52.066 - INFO - #1275] Connection attempt failed: timeout
+[2025-03-23 16:51:52.562 - INFO - #1164] Background task started: report generation
+[2025-03-23 16:51:53.829 - DEBUG - #1276] Authentication successful for user 'admin'
+[2025-03-23 16:51:54.784 - INFO - #1277] Data validation error: missing required field
+[2025-03-23 16:51:54.875 - INFO - #1165] Authentication successful for user 'admin'
+[2025-03-23 16:51:55.579 - DEBUG - #1278] API rate limit reached for client ID #1234
+[2025-03-23 16:51:56.156 - INFO - #1166] Processing user request
+[2025-03-23 16:51:57.814 - DEBUG - #1167] Request received from 192.168.1.1
+[2025-03-23 16:51:58.287 - WARNING - #1279] Cache miss detected for key 'user_profile'
+[2025-03-23 16:51:58.784 - WARNING - #1168] Background task started: report generation
+[2025-03-23 16:52:00.578 - INFO - #1169] Database query completed in 150ms
+[2025-03-23 16:52:01.273 - INFO - #1280] Connection attempt failed: timeout
+[2025-03-23 16:52:01.474 - INFO - #1170] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:01.873 - INFO - #1281] Cache miss detected for key 'user_profile'
+[2025-03-23 16:52:03.913 - ERROR - #1282] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:04.368 - WARNING - #1171] Successfully processed batch job #89754
+[2025-03-23 16:52:04.984 - WARNING - #1283] Connection attempt failed: timeout
+[2025-03-23 16:52:05.210 - INFO - #1172] Authentication successful for user 'admin'
+[2025-03-23 16:52:06.280 - DEBUG - #1173] Request received from 192.168.1.1
+[2025-03-23 16:52:06.830 - INFO - #1284] Background task started: report generation
+[2025-03-23 16:52:07.707 - INFO - #1285] Authentication successful for user 'admin'
+[2025-03-23 16:52:08.829 - INFO - #1286] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:09.075 - INFO - #1174] Successfully processed batch job #89754
+[2025-03-23 16:52:10.466 - INFO - #1287] API rate limit reached for client ID #1234
+[2025-03-23 16:52:11.133 - DEBUG - #1175] Data validation error: missing required field
+[2025-03-23 16:52:12.152 - INFO - #1288] Authentication successful for user 'admin'
+[2025-03-23 16:52:13.715 - INFO - #1289] Cache miss detected for key 'user_profile'
+[2025-03-23 16:52:14.006 - INFO - #1176] Cache miss detected for key 'user_profile'
+[2025-03-23 16:52:15.477 - WARNING - #1177] Cache miss detected for key 'user_profile'
+[2025-03-23 16:52:16.167 - INFO - #1290] Request received from 192.168.1.1
+[2025-03-23 16:52:17.960 - INFO - #1178] File not found: config.json
+[2025-03-23 16:52:18.712 - WARNING - #1291] Database query completed in 150ms
+[2025-03-23 16:52:19.262 - WARNING - #1179] File not found: config.json
+[2025-03-23 16:52:20.483 - INFO - #1180] Processing user request
+[2025-03-23 16:52:20.646 - WARNING - #1292] File not found: config.json
+[2025-03-23 16:52:21.953 - INFO - #1181] Connection attempt failed: timeout
+[2025-03-23 16:52:22.550 - INFO - #1182] Authentication successful for user 'admin'
+[2025-03-23 16:52:23.246 - INFO - #1183] API rate limit reached for client ID #1234
+[2025-03-23 16:52:23.637 - DEBUG - #1293] Background task started: report generation
+[2025-03-23 16:52:25.626 - INFO - #1294] Authentication successful for user 'admin'
+[2025-03-23 16:52:26.155 - INFO - #1184] Successfully processed batch job #89754
+[2025-03-23 16:52:26.232 - DEBUG - #1295] Database query completed in 150ms
+[2025-03-23 16:52:27.745 - INFO - #1185] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:28.936 - WARNING - #1296] Authentication successful for user 'admin'
+[2025-03-23 16:52:29.800 - INFO - #1186] Connection attempt failed: timeout
+[2025-03-23 16:52:31.206 - WARNING - #1297] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:31.216 - INFO - #1187] Authentication successful for user 'admin'
+[2025-03-23 16:52:33.157 - INFO - #1298] API rate limit reached for client ID #1234
+[2025-03-23 16:52:33.857 - INFO - #1188] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:34.859 - INFO - #1189] Successfully processed batch job #89754
+[2025-03-23 16:52:35.191 - INFO - #1299] Database query completed in 150ms
+[2025-03-23 16:52:36.359 - INFO - #1300] Authentication successful for user 'admin'
+[2025-03-23 16:52:37.613 - INFO - #1190] Data validation error: missing required field
+[2025-03-23 16:52:38.791 - INFO - #1301] Background task started: report generation
+[2025-03-23 16:52:40.236 - INFO - #1191] Authentication successful for user 'admin'
+[2025-03-23 16:52:41.743 - INFO - #1302] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:42.765 - INFO - #1192] API rate limit reached for client ID #1234
+[2025-03-23 16:52:42.921 - INFO - #1303] Background task started: report generation
+[2025-03-23 16:52:43.942 - INFO - #1193] Processing user request
+[2025-03-23 16:52:44.140 - INFO - #1304] API rate limit reached for client ID #1234
+[2025-03-23 16:52:45.920 - INFO - #1305] Cache miss detected for key 'user_profile'
+[2025-03-23 16:52:46.838 - INFO - #1194] Authentication successful for user 'admin'
+[2025-03-23 16:52:47.136 - INFO - #1306] Background task started: report generation
+[2025-03-23 16:52:48.079 - INFO - #1307] Request received from 192.168.1.1
+[2025-03-23 16:52:48.102 - INFO - #1195] Background task started: report generation
+[2025-03-23 16:52:48.701 - INFO - #1196] Background task started: report generation
+[2025-03-23 16:52:49.753 - INFO - #1308] Processing user request
+[2025-03-23 16:52:50.145 - INFO - #1197] Database query completed in 150ms
+[2025-03-23 16:52:50.433 - WARNING - #1309] Cache miss detected for key 'user_profile'
+[2025-03-23 16:52:52.329 - DEBUG - #1310] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:52.558 - INFO - #1198] API rate limit reached for client ID #1234
+[2025-03-23 16:52:52.964 - WARNING - #1311] Database query completed in 150ms
+[2025-03-23 16:52:55.410 - INFO - #1199] API rate limit reached for client ID #1234
+[2025-03-23 16:52:55.830 - INFO - #1312] Request received from 192.168.1.1
+[2025-03-23 16:52:56.964 - INFO - #1200] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:58.083 - INFO - #1313] Successfully processed batch job #89754
+[2025-03-23 16:52:58.704 - DEBUG - #1314] Memory usage optimized: freed 250MB
+[2025-03-23 16:52:58.707 - INFO - #1201] API rate limit reached for client ID #1234
+[2025-03-23 16:52:59.298 - DEBUG - #1315] Request received from 192.168.1.1
+[2025-03-23 16:52:59.535 - DEBUG - #1202] Memory usage optimized: freed 250MB
+[2025-03-23 16:53:00.263 - INFO - #1316] Data validation error: missing required field
+[2025-03-23 16:53:02.009 - INFO - #1317] Background task started: report generation
+[2025-03-23 16:53:02.360 - WARNING - #1203] Request received from 192.168.1.1
+[2025-03-23 16:53:02.695 - WARNING - #1318] Cache miss detected for key 'user_profile'
+[2025-03-23 16:53:03.648 - DEBUG - #1319] Cache miss detected for key 'user_profile'
+[2025-03-23 16:53:04.820 - INFO - #1204] Cache miss detected for key 'user_profile'
+[2025-03-23 16:53:04.853 - INFO - #1320] Authentication successful for user 'admin'
+[2025-03-23 16:53:05.579 - INFO - #1205] API rate limit reached for client ID #1234
+[2025-03-23 16:53:06.624 - WARNING - #1321] Database query completed in 150ms
+[2025-03-23 16:53:07.928 - INFO - #1206] Database query completed in 150ms
+[2025-03-23 16:53:08.601 - DEBUG - #1207] Request received from 192.168.1.1
+[2025-03-23 16:53:08.901 - INFO - #1322] Connection attempt failed: timeout
+[2025-03-23 16:53:09.880 - DEBUG - #1323] Authentication successful for user 'admin'
+[2025-03-23 16:53:11.067 - DEBUG - #1324] Memory usage optimized: freed 250MB
+[2025-03-23 16:53:11.241 - INFO - #1208] Successfully processed batch job #89754
+[2025-03-23 16:53:11.670 - INFO - #1325] Database query completed in 150ms
+[2025-03-23 16:53:12.495 - INFO - #1209] Connection attempt failed: timeout
+[2025-03-23 16:53:12.610 - DEBUG - #1326] Background task started: report generation
+[2025-03-23 16:53:14.811 - INFO - #1327] Authentication successful for user 'admin'
+[2025-03-23 16:53:15.309 - INFO - #1210] Processing user request
+[2025-03-23 16:53:15.561 - INFO - #1328] Authentication successful for user 'admin'
+[2025-03-23 16:53:16.279 - INFO - #1211] Successfully processed batch job #89754
+[2025-03-23 16:53:17.282 - INFO - #1329] Connection attempt failed: timeout
+[2025-03-23 16:53:18.476 - WARNING - #1330] Data validation error: missing required field
+[2025-03-23 16:53:19.090 - INFO - #1212] API rate limit reached for client ID #1234
+[2025-03-23 16:53:19.127 - INFO - #1331] Processing user request
+[2025-03-23 16:53:21.800 - DEBUG - #1213] Processing user request
+[2025-03-23 16:53:21.833 - INFO - #1332] Data validation error: missing required field
+[2025-03-23 16:53:22.371 - DEBUG - #1214] Memory usage optimized: freed 250MB
+[2025-03-23 16:53:23.321 - INFO - #1333] Successfully processed batch job #89754
+[2025-03-23 16:53:25.171 - INFO - #1334] Background task started: report generation
+[2025-03-23 16:53:25.353 - INFO - #1215] File not found: config.json
+[2025-03-23 16:53:26.478 - DEBUG - #1216] Connection attempt failed: timeout
+[2025-03-23 16:53:27.009 - INFO - #1335] Connection attempt failed: timeout
+[2025-03-23 16:53:27.606 - INFO - #1336] Memory usage optimized: freed 250MB
+[2025-03-23 16:53:28.653 - WARNING - #1217] Successfully processed batch job #89754
+[2025-03-23 16:53:29.616 - INFO - #1337] Processing user request
+[2025-03-23 16:53:30.614 - INFO - #1218] Data validation error: missing required field
+[2025-03-23 16:53:31.367 - DEBUG - #1338] Data validation error: missing required field
+[2025-03-23 16:53:32.211 - DEBUG - #1219] Authentication successful for user 'admin'
+[2025-03-23 16:53:33.702 - ERROR - #1339] Authentication successful for user 'admin'
+[2025-03-23 16:53:33.907 - INFO - #1220] API rate limit reached for client ID #1234
+[2025-03-23 16:53:34.720 - INFO - #1340] Memory usage optimized: freed 250MB
+[2025-03-23 16:53:36.351 - INFO - #1221] Connection attempt failed: timeout
+[2025-03-23 16:53:36.468 - INFO - #1341] Connection attempt failed: timeout
+[2025-03-23 16:53:37.133 - INFO - #1342] Data validation error: missing required field
+[2025-03-23 16:53:37.702 - DEBUG - #1343] Background task started: report generation
+[2025-03-23 16:53:39.053 - INFO - #1222] Request received from 192.168.1.1
+[2025-03-23 16:53:39.598 - INFO - #1223] Successfully processed batch job #89754
+[2025-03-23 16:53:40.045 - INFO - #1344] API rate limit reached for client ID #1234
+[2025-03-23 16:53:41.576 - ERROR - #1224] File not found: config.json
+[2025-03-23 16:53:42.419 - INFO - #1225] Data validation error: missing required field
+[2025-03-23 16:53:42.507 - INFO - #1345] Cache miss detected for key 'user_profile'
+[2025-03-23 16:53:44.058 - WARNING - #1346] Authentication successful for user 'admin'
+[2025-03-23 16:53:44.715 - INFO - #1347] Authentication successful for user 'admin'
+[2025-03-23 16:53:45.386 - INFO - #1226] Database query completed in 150ms
+[2025-03-23 16:53:45.402 - INFO - #1348] Successfully processed batch job #89754
+[2025-03-23 16:53:46.941 - DEBUG - #1227] Cache miss detected for key 'user_profile'
+[2025-03-23 16:53:47.958 - INFO - #1228] API rate limit reached for client ID #1234
+[2025-03-23 16:53:48.003 - INFO - #1349] Processing user request
+[2025-03-23 16:53:50.512 - INFO - #1229] Request received from 192.168.1.1
+[2025-03-23 16:53:50.805 - INFO - #1350] Processing user request
+[2025-03-23 16:53:51.762 - DEBUG - #1230] Cache miss detected for key 'user_profile'
+[2025-03-23 16:53:51.812 - DEBUG - #1351] File not found: config.json
+[2025-03-23 16:53:53.129 - DEBUG - #1231] Database query completed in 150ms
+[2025-03-23 16:53:53.564 - INFO - #1352] Database query completed in 150ms
+[2025-03-23 16:53:55.140 - INFO - #1232] Successfully processed batch job #89754
+[2025-03-23 16:53:55.516 - INFO - #1353] Request received from 192.168.1.1
+[2025-03-23 16:53:57.373 - INFO - #1233] Authentication successful for user 'admin'
+[2025-03-23 16:53:57.933 - INFO - #1354] Authentication successful for user 'admin'
+[2025-03-23 16:53:58.776 - INFO - #1355] API rate limit reached for client ID #1234
+[2025-03-23 16:53:59.804 - INFO - #1356] Cache miss detected for key 'user_profile'
+[2025-03-23 16:53:59.942 - INFO - #1234] Database query completed in 150ms
+[2025-03-23 16:54:01.087 - INFO - #1357] Cache miss detected for key 'user_profile'
+[2025-03-23 16:54:01.712 - INFO - #1358] Request received from 192.168.1.1
+[2025-03-23 16:54:02.389 - INFO - #1359] Request received from 192.168.1.1
+[2025-03-23 16:54:02.652 - INFO - #1235] File not found: config.json
+[2025-03-23 16:54:04.728 - WARNING - #1360] Cache miss detected for key 'user_profile'
+[2025-03-23 16:54:05.297 - INFO - #1236] Successfully processed batch job #89754
+[2025-03-23 16:54:05.372 - INFO - #1361] Processing user request
+[2025-03-23 16:54:06.922 - DEBUG - #1237] Cache miss detected for key 'user_profile'
+[2025-03-23 16:54:08.262 - INFO - #1362] Connection attempt failed: timeout
+[2025-03-23 16:54:08.316 - INFO - #1238] Cache miss detected for key 'user_profile'
+[2025-03-23 16:54:10.195 - INFO - #1363] Successfully processed batch job #89754
+[2025-03-23 16:54:10.250 - INFO - #1239] Memory usage optimized: freed 250MB
+[2025-03-23 16:54:12.806 - DEBUG - #1364] Connection attempt failed: timeout
+[2025-03-23 16:54:13.034 - INFO - #1240] Processing user request
+[2025-03-23 16:54:15.264 - INFO - #1365] Successfully processed batch job #89754
+[2025-03-23 16:54:16.017 - INFO - #1241] Authentication successful for user 'admin'
+[2025-03-23 16:54:16.170 - DEBUG - #1366] Cache miss detected for key 'user_profile'
+[2025-03-23 16:54:18.623 - INFO - #1367] Connection attempt failed: timeout
+[2025-03-23 16:54:18.901 - INFO - #1242] Cache miss detected for key 'user_profile'
+[2025-03-23 16:54:19.462 - DEBUG - #1243] API rate limit reached for client ID #1234
+[2025-03-23 16:54:19.879 - INFO - #1368] Database query completed in 150ms
+[2025-03-23 16:54:21.329 - INFO - #1244] Database query completed in 150ms
+[2025-03-23 16:54:22.446 - INFO - #1369] Cache miss detected for key 'user_profile'
+[2025-03-23 16:54:23.819 - INFO - #1245] Data validation error: missing required field
+[2025-03-23 16:54:24.029 - INFO - #1370] Successfully processed batch job #89754
+[2025-03-23 16:54:26.000 - DEBUG - #1371] Authentication successful for user 'admin'
+[2025-03-23 16:54:26.725 - INFO - #1246] Authentication successful for user 'admin'
+[2025-03-23 16:54:26.809 - DEBUG - #1372] Connection attempt failed: timeout
+[2025-03-23 16:54:27.935 - INFO - #1373] Authentication successful for user 'admin'
+[2025-03-23 16:54:28.761 - DEBUG - #1247] Processing user request
+[2025-03-23 16:54:29.303 - INFO - #1374] API rate limit reached for client ID #1234
+[2025-03-23 16:54:31.315 - INFO - #1248] Successfully processed batch job #89754
+[2025-03-23 16:54:31.548 - INFO - #1375] File not found: config.json
+[2025-03-23 16:54:32.881 - INFO - #1249] Background task started: report generation
+[2025-03-23 16:54:33.458 - INFO - #1376] Connection attempt failed: timeout
+[2025-03-23 16:54:35.406 - INFO - #1250] API rate limit reached for client ID #1234
+[2025-03-23 16:54:35.828 - INFO - #1377] Request received from 192.168.1.1
+[2025-03-23 16:54:36.399 - INFO - #1251] Authentication successful for user 'admin'
+[2025-03-23 16:54:36.536 - INFO - #1378] Request received from 192.168.1.1
+[2025-03-23 16:54:38.958 - INFO - #1252] Memory usage optimized: freed 250MB
+[2025-03-23 16:54:39.023 - DEBUG - #1379] Processing user request
+[2025-03-23 16:54:39.856 - INFO - #1380] Background task started: report generation
+[2025-03-23 16:54:41.323 - INFO - #1381] Background task started: report generation
+[2025-03-23 16:54:41.707 - INFO - #1253] File not found: config.json
+[2025-03-23 16:54:42.442 - INFO - #1382] Data validation error: missing required field
+[2025-03-23 16:54:44.571 - DEBUG - #1254] Data validation error: missing required field
+[2025-03-23 16:54:44.864 - DEBUG - #1383] Authentication successful for user 'admin'
+[2025-03-23 16:54:45.205 - DEBUG - #1255] Processing user request
+[2025-03-23 16:54:45.839 - INFO - #1256] Request received from 192.168.1.1
+[2025-03-23 16:54:46.696 - INFO - #1257] File not found: config.json
+[2025-03-23 16:54:47.227 - INFO - #1384] Background task started: report generation
+[2025-03-23 16:54:48.108 - INFO - #1385] File not found: config.json
+[2025-03-23 16:54:49.247 - INFO - #1258] Connection attempt failed: timeout
+[2025-03-23 16:54:50.513 - INFO - #1386] Connection attempt failed: timeout
+[2025-03-23 16:54:51.461 - DEBUG - #1259] API rate limit reached for client ID #1234
+[2025-03-23 16:54:52.174 - INFO - #1387] Successfully processed batch job #89754
+[2025-03-23 16:54:53.160 - DEBUG - #1260] Successfully processed batch job #89754
+[2025-03-23 16:54:53.268 - INFO - #1388] Database query completed in 150ms
+[2025-03-23 16:54:54.564 - INFO - #1389] Background task started: report generation
+[2025-03-23 16:54:55.938 - WARNING - #1390] Successfully processed batch job #89754
+[2025-03-23 16:54:56.061 - INFO - #1261] Background task started: report generation
+[2025-03-23 16:54:57.526 - INFO - #1262] Request received from 192.168.1.1
+[2025-03-23 16:54:58.419 - INFO - #1263] Authentication successful for user 'admin'
+[2025-03-23 16:54:58.794 - INFO - #1391] Memory usage optimized: freed 250MB
+[2025-03-23 16:55:00.916 - INFO - #1264] File not found: config.json
+[2025-03-23 16:55:01.354 - DEBUG - #1392] File not found: config.json
+[2025-03-23 16:55:02.040 - INFO - #1265] Cache miss detected for key 'user_profile'
+[2025-03-23 16:55:02.922 - INFO - #1393] Database query completed in 150ms
+[2025-03-23 16:55:03.121 - DEBUG - #1266] Request received from 192.168.1.1
+[2025-03-23 16:55:03.711 - DEBUG - #1394] Memory usage optimized: freed 250MB
+[2025-03-23 16:55:04.758 - INFO - #1395] API rate limit reached for client ID #1234
+[2025-03-23 16:55:05.361 - INFO - #1267] Request received from 192.168.1.1
+[2025-03-23 16:55:06.584 - ERROR - #1268] Data validation error: missing required field
+[2025-03-23 16:55:07.300 - INFO - #1396] Processing user request
+[2025-03-23 16:55:08.943 - INFO - #1397] Database query completed in 150ms
+[2025-03-23 16:55:09.065 - INFO - #1269] Successfully processed batch job #89754
+[2025-03-23 16:55:10.283 - INFO - #1270] Successfully processed batch job #89754
+[2025-03-23 16:55:11.849 - DEBUG - #1398] File not found: config.json
+[2025-03-23 16:55:12.325 - INFO - #1271] Database query completed in 150ms
+[2025-03-23 16:55:13.099 - INFO - #1399] Database query completed in 150ms
+[2025-03-23 16:55:15.161 - INFO - #1272] Background task started: report generation
+[2025-03-23 16:55:15.750 - WARNING - #1400] File not found: config.json
+[2025-03-23 16:55:17.445 - INFO - #1273] Memory usage optimized: freed 250MB
+[2025-03-23 16:55:18.148 - DEBUG - #1274] Data validation error: missing required field
+[2025-03-23 16:55:18.469 - DEBUG - #1401] Connection attempt failed: timeout
+[2025-03-23 16:55:19.722 - INFO - #1402] Background task started: report generation
+[2025-03-23 16:55:19.987 - DEBUG - #1275] Authentication successful for user 'admin'
+[2025-03-23 16:55:21.480 - INFO - #1276] Successfully processed batch job #89754
+[2025-03-23 16:55:22.370 - WARNING - #1403] Successfully processed batch job #89754
+[2025-03-23 16:55:23.859 - INFO - #1404] Successfully processed batch job #89754
+[2025-03-23 16:55:23.978 - ERROR - #1277] Cache miss detected for key 'user_profile'
+[2025-03-23 16:55:24.592 - INFO - #1278] Background task started: report generation
+[2025-03-23 16:55:24.848 - INFO - #1405] Cache miss detected for key 'user_profile'
+[2025-03-23 16:55:26.397 - ERROR - #1279] Data validation error: missing required field
+[2025-03-23 16:55:27.662 - ERROR - #1406] Background task started: report generation
+[2025-03-23 16:55:28.811 - INFO - #1280] Database query completed in 150ms
+[2025-03-23 16:55:29.556 - INFO - #1281] Cache miss detected for key 'user_profile'
+[2025-03-23 16:55:29.869 - INFO - #1407] Successfully processed batch job #89754
+[2025-03-23 16:55:31.928 - DEBUG - #1282] Processing user request
+[2025-03-23 16:55:32.534 - WARNING - #1408] Authentication successful for user 'admin'
+[2025-03-23 16:55:33.363 - INFO - #1283] Successfully processed batch job #89754
+[2025-03-23 16:55:35.382 - INFO - #1409] Memory usage optimized: freed 250MB
+[2025-03-23 16:55:35.981 - ERROR - #1410] Memory usage optimized: freed 250MB
+[2025-03-23 16:55:36.288 - INFO - #1284] File not found: config.json
+[2025-03-23 16:55:38.179 - INFO - #1285] Authentication successful for user 'admin'
+[2025-03-23 16:55:38.337 - INFO - #1411] Processing user request
+[2025-03-23 16:55:38.688 - INFO - #1286] Database query completed in 150ms
+[2025-03-23 16:55:39.815 - INFO - #1412] Cache miss detected for key 'user_profile'
+[2025-03-23 16:55:40.981 - WARNING - #1287] Background task started: report generation
+[2025-03-23 16:55:41.951 - DEBUG - #1288] Background task started: report generation
+[2025-03-23 16:55:42.522 - INFO - #1413] Database query completed in 150ms
+[2025-03-23 16:55:43.191 - INFO - #1414] Database query completed in 150ms
+[2025-03-23 16:55:43.788 - INFO - #1289] Processing user request
+[2025-03-23 16:55:45.362 - INFO - #1415] API rate limit reached for client ID #1234
+[2025-03-23 16:55:45.909 - INFO - #1290] Authentication successful for user 'admin'
+[2025-03-23 16:55:46.171 - DEBUG - #1416] File not found: config.json
+[2025-03-23 16:55:47.013 - INFO - #1417] Successfully processed batch job #89754
+[2025-03-23 16:55:47.945 - INFO - #1418] Successfully processed batch job #89754
+[2025-03-23 16:55:48.092 - DEBUG - #1291] Data validation error: missing required field
+[2025-03-23 16:55:50.244 - DEBUG - #1419] API rate limit reached for client ID #1234
+[2025-03-23 16:55:51.066 - INFO - #1292] Cache miss detected for key 'user_profile'
+[2025-03-23 16:55:52.788 - INFO - #1420] Database query completed in 150ms
+[2025-03-23 16:55:53.208 - INFO - #1293] Connection attempt failed: timeout
+[2025-03-23 16:55:55.108 - INFO - #1421] Successfully processed batch job #89754
+[2025-03-23 16:55:55.513 - INFO - #1294] Background task started: report generation
+[2025-03-23 16:55:56.581 - INFO - #1422] Authentication successful for user 'admin'
+[2025-03-23 16:55:57.708 - DEBUG - #1295] Background task started: report generation
+[2025-03-23 16:55:58.954 - DEBUG - #1423] Request received from 192.168.1.1
+[2025-03-23 16:55:59.557 - INFO - #1424] Authentication successful for user 'admin'
+[2025-03-23 16:55:59.759 - INFO - #1296] API rate limit reached for client ID #1234
+[2025-03-23 16:56:00.466 - INFO - #1425] Database query completed in 150ms
+[2025-03-23 16:56:01.305 - DEBUG - #1297] Request received from 192.168.1.1
+[2025-03-23 16:56:02.450 - INFO - #1298] Data validation error: missing required field
+[2025-03-23 16:56:03.414 - WARNING - #1299] Background task started: report generation
+[2025-03-23 16:56:03.434 - INFO - #1426] Memory usage optimized: freed 250MB
+[2025-03-23 16:56:05.777 - INFO - #1427] Successfully processed batch job #89754
+[2025-03-23 16:56:06.039 - INFO - #1300] Data validation error: missing required field
+[2025-03-23 16:56:07.213 - INFO - #1428] API rate limit reached for client ID #1234
+[2025-03-23 16:56:08.333 - DEBUG - #1301] File not found: config.json
+[2025-03-23 16:56:09.170 - INFO - #1429] Memory usage optimized: freed 250MB
+[2025-03-23 16:56:09.511 - INFO - #1302] Memory usage optimized: freed 250MB
+[2025-03-23 16:56:09.870 - DEBUG - #1430] Memory usage optimized: freed 250MB
+[2025-03-23 16:56:10.454 - INFO - #1431] Processing user request
+[2025-03-23 16:56:11.217 - WARNING - #1432] Connection attempt failed: timeout
+[2025-03-23 16:56:12.466 - DEBUG - #1303] Background task started: report generation
+[2025-03-23 16:56:12.811 - DEBUG - #1433] Successfully processed batch job #89754
+[2025-03-23 16:56:15.343 - WARNING - #1304] File not found: config.json
+[2025-03-23 16:56:15.770 - WARNING - #1434] Cache miss detected for key 'user_profile'
+[2025-03-23 16:56:17.370 - INFO - #1435] Memory usage optimized: freed 250MB
+[2025-03-23 16:56:17.886 - INFO - #1305] Successfully processed batch job #89754
+[2025-03-23 16:56:20.122 - DEBUG - #1436] Connection attempt failed: timeout
+[2025-03-23 16:56:20.677 - DEBUG - #1306] Cache miss detected for key 'user_profile'
+[2025-03-23 16:56:22.576 - INFO - #1437] Cache miss detected for key 'user_profile'
+[2025-03-23 16:56:23.371 - INFO - #1438] Authentication successful for user 'admin'
+[2025-03-23 16:56:23.412 - INFO - #1307] Request received from 192.168.1.1
+[2025-03-23 16:56:25.538 - INFO - #1439] File not found: config.json
+[2025-03-23 16:56:25.634 - INFO - #1308] Connection attempt failed: timeout
+[2025-03-23 16:56:26.318 - INFO - #1440] Request received from 192.168.1.1
+[2025-03-23 16:56:27.286 - DEBUG - #1309] Database query completed in 150ms
+[2025-03-23 16:56:28.677 - INFO - #1441] Memory usage optimized: freed 250MB
+[2025-03-23 16:56:28.863 - INFO - #1310] Background task started: report generation
+[2025-03-23 16:56:31.325 - INFO - #1442] Connection attempt failed: timeout
+[2025-03-23 16:56:31.655 - INFO - #1311] Background task started: report generation
+[2025-03-23 16:56:32.924 - INFO - #1312] Authentication successful for user 'admin'
+[2025-03-23 16:56:33.742 - INFO - #1313] Request received from 192.168.1.1
+[2025-03-23 16:56:33.828 - INFO - #1443] Authentication successful for user 'admin'
+[2025-03-23 16:56:35.778 - DEBUG - #1314] Authentication successful for user 'admin'
+[2025-03-23 16:56:36.629 - INFO - #1444] Data validation error: missing required field
+[2025-03-23 16:56:37.582 - INFO - #1315] Background task started: report generation
+[2025-03-23 16:56:37.641 - INFO - #1445] Cache miss detected for key 'user_profile'
+[2025-03-23 16:56:38.461 - INFO - #1316] Connection attempt failed: timeout
+[2025-03-23 16:56:40.595 - INFO - #1446] Background task started: report generation
+[2025-03-23 16:56:41.148 - INFO - #1317] Request received from 192.168.1.1
+[2025-03-23 16:56:43.491 - INFO - #1447] API rate limit reached for client ID #1234
+[2025-03-23 16:56:43.793 - INFO - #1318] File not found: config.json
+[2025-03-23 16:56:44.305 - INFO - #1319] Authentication successful for user 'admin'
+[2025-03-23 16:56:44.372 - DEBUG - #1448] Data validation error: missing required field
+[2025-03-23 16:56:45.353 - WARNING - #1320] Data validation error: missing required field
+[2025-03-23 16:56:45.625 - INFO - #1449] Connection attempt failed: timeout
+[2025-03-23 16:56:47.189 - DEBUG - #1450] Authentication successful for user 'admin'
+[2025-03-23 16:56:48.184 - INFO - #1321] Cache miss detected for key 'user_profile'
+[2025-03-23 16:56:48.629 - DEBUG - #1451] Memory usage optimized: freed 250MB
+[2025-03-23 16:56:49.782 - INFO - #1322] API rate limit reached for client ID #1234
+[2025-03-23 16:56:51.358 - INFO - #1452] Cache miss detected for key 'user_profile'
+[2025-03-23 16:56:51.755 - DEBUG - #1323] Background task started: report generation
+[2025-03-23 16:56:54.089 - INFO - #1453] Background task started: report generation
+[2025-03-23 16:56:54.344 - INFO - #1324] Request received from 192.168.1.1
+[2025-03-23 16:56:56.054 - DEBUG - #1454] Database query completed in 150ms
+[2025-03-23 16:56:56.067 - DEBUG - #1325] Database query completed in 150ms
+[2025-03-23 16:56:58.616 - INFO - #1326] Connection attempt failed: timeout
+[2025-03-23 16:56:58.813 - DEBUG - #1455] Successfully processed batch job #89754
+[2025-03-23 16:56:59.596 - INFO - #1456] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:00.925 - INFO - #1327] Successfully processed batch job #89754
+[2025-03-23 16:57:02.283 - DEBUG - #1457] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:02.958 - WARNING - #1328] Request received from 192.168.1.1
+[2025-03-23 16:57:03.922 - INFO - #1458] Background task started: report generation
+[2025-03-23 16:57:04.506 - INFO - #1459] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:04.761 - INFO - #1329] API rate limit reached for client ID #1234
+[2025-03-23 16:57:06.761 - INFO - #1330] Processing user request
+[2025-03-23 16:57:06.881 - DEBUG - #1460] Data validation error: missing required field
+[2025-03-23 16:57:07.645 - INFO - #1461] Background task started: report generation
+[2025-03-23 16:57:08.042 - INFO - #1331] API rate limit reached for client ID #1234
+[2025-03-23 16:57:08.300 - INFO - #1462] Data validation error: missing required field
+[2025-03-23 16:57:09.358 - WARNING - #1332] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:10.290 - DEBUG - #1463] Authentication successful for user 'admin'
+[2025-03-23 16:57:10.432 - INFO - #1333] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:11.381 - INFO - #1464] Database query completed in 150ms
+[2025-03-23 16:57:12.967 - INFO - #1334] Request received from 192.168.1.1
+[2025-03-23 16:57:13.103 - INFO - #1465] Request received from 192.168.1.1
+[2025-03-23 16:57:14.362 - INFO - #1335] Background task started: report generation
+[2025-03-23 16:57:15.821 - INFO - #1466] Memory usage optimized: freed 250MB
+[2025-03-23 16:57:15.897 - INFO - #1336] Request received from 192.168.1.1
+[2025-03-23 16:57:16.404 - DEBUG - #1467] Request received from 192.168.1.1
+[2025-03-23 16:57:16.839 - INFO - #1337] Request received from 192.168.1.1
+[2025-03-23 16:57:17.241 - INFO - #1468] Connection attempt failed: timeout
+[2025-03-23 16:57:18.933 - INFO - #1338] Background task started: report generation
+[2025-03-23 16:57:19.333 - INFO - #1469] Background task started: report generation
+[2025-03-23 16:57:21.179 - INFO - #1339] Database query completed in 150ms
+[2025-03-23 16:57:21.891 - DEBUG - #1470] Processing user request
+[2025-03-23 16:57:21.989 - INFO - #1340] Processing user request
+[2025-03-23 16:57:23.799 - INFO - #1341] API rate limit reached for client ID #1234
+[2025-03-23 16:57:24.229 - INFO - #1471] File not found: config.json
+[2025-03-23 16:57:24.916 - INFO - #1342] Request received from 192.168.1.1
+[2025-03-23 16:57:26.117 - ERROR - #1343] Request received from 192.168.1.1
+[2025-03-23 16:57:27.159 - INFO - #1344] Data validation error: missing required field
+[2025-03-23 16:57:27.231 - INFO - #1472] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:28.336 - INFO - #1345] Authentication successful for user 'admin'
+[2025-03-23 16:57:28.959 - DEBUG - #1473] Memory usage optimized: freed 250MB
+[2025-03-23 16:57:30.302 - INFO - #1346] Processing user request
+[2025-03-23 16:57:30.481 - INFO - #1474] Data validation error: missing required field
+[2025-03-23 16:57:30.827 - INFO - #1347] Data validation error: missing required field
+[2025-03-23 16:57:31.816 - INFO - #1348] Background task started: report generation
+[2025-03-23 16:57:32.361 - INFO - #1475] Request received from 192.168.1.1
+[2025-03-23 16:57:34.627 - INFO - #1476] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:34.686 - INFO - #1349] Request received from 192.168.1.1
+[2025-03-23 16:57:37.096 - DEBUG - #1477] Processing user request
+[2025-03-23 16:57:37.603 - DEBUG - #1350] Data validation error: missing required field
+[2025-03-23 16:57:38.756 - INFO - #1351] Successfully processed batch job #89754
+[2025-03-23 16:57:39.765 - WARNING - #1478] File not found: config.json
+[2025-03-23 16:57:41.351 - INFO - #1352] File not found: config.json
+[2025-03-23 16:57:42.235 - DEBUG - #1479] Authentication successful for user 'admin'
+[2025-03-23 16:57:43.699 - DEBUG - #1353] File not found: config.json
+[2025-03-23 16:57:44.307 - INFO - #1480] Data validation error: missing required field
+[2025-03-23 16:57:44.575 - DEBUG - #1354] Request received from 192.168.1.1
+[2025-03-23 16:57:45.824 - INFO - #1355] Connection attempt failed: timeout
+[2025-03-23 16:57:46.345 - INFO - #1481] File not found: config.json
+[2025-03-23 16:57:47.831 - INFO - #1356] API rate limit reached for client ID #1234
+[2025-03-23 16:57:48.572 - INFO - #1482] API rate limit reached for client ID #1234
+[2025-03-23 16:57:48.925 - INFO - #1357] Successfully processed batch job #89754
+[2025-03-23 16:57:49.938 - INFO - #1358] Successfully processed batch job #89754
+[2025-03-23 16:57:50.604 - INFO - #1483] Database query completed in 150ms
+[2025-03-23 16:57:51.216 - INFO - #1359] Data validation error: missing required field
+[2025-03-23 16:57:52.707 - INFO - #1360] Cache miss detected for key 'user_profile'
+[2025-03-23 16:57:52.989 - DEBUG - #1484] Connection attempt failed: timeout
+[2025-03-23 16:57:54.471 - INFO - #1361] Authentication successful for user 'admin'
+[2025-03-23 16:57:55.095 - INFO - #1485] Processing user request
+[2025-03-23 16:57:56.469 - DEBUG - #1362] Authentication successful for user 'admin'
+[2025-03-23 16:57:57.474 - INFO - #1486] Request received from 192.168.1.1
+[2025-03-23 16:57:57.991 - DEBUG - #1363] Connection attempt failed: timeout
+[2025-03-23 16:57:58.029 - DEBUG - #1487] Cache miss detected for key 'user_profile'
+[2025-03-23 16:58:00.078 - INFO - #1364] Processing user request
+[2025-03-23 16:58:00.543 - INFO - #1488] API rate limit reached for client ID #1234
+[2025-03-23 16:58:02.105 - INFO - #1365] Data validation error: missing required field
+[2025-03-23 16:58:02.765 - INFO - #1366] Cache miss detected for key 'user_profile'
+[2025-03-23 16:58:03.204 - INFO - #1489] Database query completed in 150ms
+[2025-03-23 16:58:04.143 - INFO - #1367] Background task started: report generation
+[2025-03-23 16:58:06.149 - INFO - #1490] Processing user request
+[2025-03-23 16:58:06.323 - INFO - #1368] Authentication successful for user 'admin'
+[2025-03-23 16:58:07.553 - INFO - #1491] File not found: config.json
+[2025-03-23 16:58:07.626 - DEBUG - #1369] Database query completed in 150ms
+[2025-03-23 16:58:08.122 - INFO - #1492] Connection attempt failed: timeout
+[2025-03-23 16:58:09.261 - INFO - #1370] Request received from 192.168.1.1
+[2025-03-23 16:58:09.824 - INFO - #1493] Successfully processed batch job #89754
+[2025-03-23 16:58:10.217 - INFO - #1371] File not found: config.json
+[2025-03-23 16:58:10.394 - DEBUG - #1494] Request received from 192.168.1.1
+[2025-03-23 16:58:12.031 - INFO - #1372] Request received from 192.168.1.1
+[2025-03-23 16:58:12.193 - INFO - #1495] Connection attempt failed: timeout
+[2025-03-23 16:58:12.987 - DEBUG - #1373] Cache miss detected for key 'user_profile'
+[2025-03-23 16:58:14.444 - INFO - #1374] Cache miss detected for key 'user_profile'
+[2025-03-23 16:58:14.928 - DEBUG - #1496] Background task started: report generation
+[2025-03-23 16:58:15.946 - ERROR - #1497] File not found: config.json
+[2025-03-23 16:58:16.929 - INFO - #1498] API rate limit reached for client ID #1234
+[2025-03-23 16:58:17.059 - ERROR - #1375] Authentication successful for user 'admin'
+[2025-03-23 16:58:17.820 - DEBUG - #1376] Connection attempt failed: timeout
+[2025-03-23 16:58:19.228 - INFO - #1377] File not found: config.json
+[2025-03-23 16:58:19.699 - INFO - #1499] File not found: config.json
+[2025-03-23 16:58:20.087 - DEBUG - #1378] Memory usage optimized: freed 250MB
+[2025-03-23 16:58:20.614 - INFO - #1500] API rate limit reached for client ID #1234
+[2025-03-23 16:58:21.975 - DEBUG - #1379] API rate limit reached for client ID #1234
+[2025-03-23 16:58:22.223 - INFO - #1501] Background task started: report generation
+[2025-03-23 16:58:23.408 - INFO - #1502] Database query completed in 150ms
+[2025-03-23 16:58:24.796 - ERROR - #1503] Data validation error: missing required field
+[2025-03-23 16:58:24.915 - INFO - #1380] Cache miss detected for key 'user_profile'
+[2025-03-23 16:58:25.527 - INFO - #1504] Database query completed in 150ms
+[2025-03-23 16:58:26.988 - INFO - #1381] Data validation error: missing required field
+[2025-03-23 16:58:27.806 - INFO - #1505] Database query completed in 150ms
+[2025-03-23 16:58:29.057 - INFO - #1382] Database query completed in 150ms
+[2025-03-23 16:58:29.565 - WARNING - #1506] API rate limit reached for client ID #1234
+[2025-03-23 16:58:30.197 - INFO - #1383] Processing user request
+[2025-03-23 16:58:31.081 - INFO - #1507] Processing user request
+[2025-03-23 16:58:32.147 - DEBUG - #1384] Data validation error: missing required field
+[2025-03-23 16:58:33.027 - INFO - #1508] Data validation error: missing required field
+[2025-03-23 16:58:34.341 - DEBUG - #1385] Processing user request
+[2025-03-23 16:58:34.748 - INFO - #1509] File not found: config.json
+[2025-03-23 16:58:36.608 - INFO - #1386] Request received from 192.168.1.1
+[2025-03-23 16:58:37.293 - INFO - #1510] Memory usage optimized: freed 250MB
+[2025-03-23 16:58:38.049 - INFO - #1387] Connection attempt failed: timeout
+[2025-03-23 16:58:38.231 - INFO - #1511] Processing user request
+[2025-03-23 16:58:39.367 - WARNING - #1512] Connection attempt failed: timeout
+[2025-03-23 16:58:40.446 - WARNING - #1388] File not found: config.json
+[2025-03-23 16:58:40.982 - INFO - #1513] Data validation error: missing required field
+[2025-03-23 16:58:42.196 - DEBUG - #1514] File not found: config.json
+[2025-03-23 16:58:42.971 - INFO - #1389] Authentication successful for user 'admin'
+[2025-03-23 16:58:43.160 - INFO - #1515] Memory usage optimized: freed 250MB
+[2025-03-23 16:58:43.829 - DEBUG - #1516] Background task started: report generation
+[2025-03-23 16:58:44.395 - INFO - #1517] Data validation error: missing required field
+[2025-03-23 16:58:44.414 - INFO - #1390] Background task started: report generation
+[2025-03-23 16:58:44.973 - WARNING - #1391] API rate limit reached for client ID #1234
+[2025-03-23 16:58:45.881 - ERROR - #1392] File not found: config.json
+[2025-03-23 16:58:47.354 - INFO - #1518] Processing user request
+[2025-03-23 16:58:47.841 - INFO - #1393] Database query completed in 150ms
+[2025-03-23 16:58:48.535 - DEBUG - #1519] API rate limit reached for client ID #1234
+[2025-03-23 16:58:48.790 - DEBUG - #1394] Background task started: report generation
+[2025-03-23 16:58:49.443 - DEBUG - #1520] Data validation error: missing required field
+[2025-03-23 16:58:50.226 - INFO - #1521] Connection attempt failed: timeout
+[2025-03-23 16:58:50.940 - INFO - #1395] Successfully processed batch job #89754
+[2025-03-23 16:58:52.063 - INFO - #1522] Memory usage optimized: freed 250MB
+[2025-03-23 16:58:52.803 - INFO - #1523] Authentication successful for user 'admin'
+[2025-03-23 16:58:52.828 - WARNING - #1396] Processing user request
+[2025-03-23 16:58:53.377 - INFO - #1397] Successfully processed batch job #89754
+[2025-03-23 16:58:54.101 - INFO - #1524] Data validation error: missing required field
+[2025-03-23 16:58:55.081 - INFO - #1398] File not found: config.json
+[2025-03-23 16:58:55.325 - INFO - #1525] Connection attempt failed: timeout
+[2025-03-23 16:58:56.855 - DEBUG - #1526] Connection attempt failed: timeout
+[2025-03-23 16:58:56.895 - INFO - #1399] Processing user request
+[2025-03-23 16:58:58.762 - INFO - #1527] Cache miss detected for key 'user_profile'
+[2025-03-23 16:58:59.067 - INFO - #1400] Data validation error: missing required field
+[2025-03-23 16:58:59.322 - INFO - #1528] Connection attempt failed: timeout
+[2025-03-23 16:59:00.608 - DEBUG - #1401] Cache miss detected for key 'user_profile'
+[2025-03-23 16:59:01.964 - DEBUG - #1529] Memory usage optimized: freed 250MB
+[2025-03-23 16:59:03.114 - DEBUG - #1530] Request received from 192.168.1.1
+[2025-03-23 16:59:03.399 - DEBUG - #1402] Connection attempt failed: timeout
+[2025-03-23 16:59:04.393 - INFO - #1531] Connection attempt failed: timeout
+[2025-03-23 16:59:06.258 - INFO - #1403] API rate limit reached for client ID #1234
+[2025-03-23 16:59:06.829 - INFO - #1532] API rate limit reached for client ID #1234
+[2025-03-23 16:59:07.387 - INFO - #1404] Database query completed in 150ms
+[2025-03-23 16:59:09.389 - INFO - #1405] Processing user request
+[2025-03-23 16:59:09.583 - DEBUG - #1533] Background task started: report generation
+[2025-03-23 16:59:11.105 - DEBUG - #1534] Data validation error: missing required field
+[2025-03-23 16:59:11.522 - DEBUG - #1406] API rate limit reached for client ID #1234
+[2025-03-23 16:59:12.412 - DEBUG - #1535] Processing user request
+[2025-03-23 16:59:13.759 - INFO - #1407] Cache miss detected for key 'user_profile'
+[2025-03-23 16:59:14.605 - INFO - #1536] Request received from 192.168.1.1
+[2025-03-23 16:59:16.561 - DEBUG - #1408] Data validation error: missing required field
+[2025-03-23 16:59:16.576 - INFO - #1537] Successfully processed batch job #89754
+[2025-03-23 16:59:17.417 - INFO - #1409] Connection attempt failed: timeout
+[2025-03-23 16:59:18.456 - INFO - #1538] Request received from 192.168.1.1
+[2025-03-23 16:59:19.439 - DEBUG - #1410] Background task started: report generation
+[2025-03-23 16:59:20.529 - INFO - #1539] Cache miss detected for key 'user_profile'
+[2025-03-23 16:59:22.152 - INFO - #1411] File not found: config.json
+[2025-03-23 16:59:22.165 - DEBUG - #1540] Connection attempt failed: timeout
+[2025-03-23 16:59:24.372 - INFO - #1541] Database query completed in 150ms
+[2025-03-23 16:59:24.482 - INFO - #1412] Processing user request
+[2025-03-23 16:59:26.812 - DEBUG - #1413] Authentication successful for user 'admin'
+[2025-03-23 16:59:26.978 - INFO - #1542] Connection attempt failed: timeout
+[2025-03-23 16:59:28.740 - INFO - #1543] File not found: config.json
+[2025-03-23 16:59:29.607 - INFO - #1414] Cache miss detected for key 'user_profile'
+[2025-03-23 16:59:30.200 - INFO - #1544] Processing user request
+[2025-03-23 16:59:31.192 - INFO - #1545] API rate limit reached for client ID #1234
+[2025-03-23 16:59:32.420 - INFO - #1415] Successfully processed batch job #89754
+[2025-03-23 16:59:32.573 - DEBUG - #1546] Successfully processed batch job #89754
+[2025-03-23 16:59:34.414 - INFO - #1547] Successfully processed batch job #89754
+[2025-03-23 16:59:34.708 - INFO - #1416] Processing user request
+[2025-03-23 16:59:36.407 - DEBUG - #1548] Connection attempt failed: timeout
+[2025-03-23 16:59:37.185 - DEBUG - #1417] Cache miss detected for key 'user_profile'
+[2025-03-23 16:59:38.175 - WARNING - #1549] Successfully processed batch job #89754
+[2025-03-23 16:59:38.799 - DEBUG - #1418] API rate limit reached for client ID #1234
+[2025-03-23 16:59:40.073 - WARNING - #1419] Data validation error: missing required field
+[2025-03-23 16:59:40.163 - INFO - #1550] Memory usage optimized: freed 250MB
+[2025-03-23 16:59:42.557 - DEBUG - #1420] Authentication successful for user 'admin'
+[2025-03-23 16:59:42.991 - INFO - #1551] Processing user request
+[2025-03-23 16:59:45.098 - INFO - #1421] Request received from 192.168.1.1
+[2025-03-23 16:59:45.540 - DEBUG - #1552] Request received from 192.168.1.1
+[2025-03-23 16:59:47.523 - DEBUG - #1422] File not found: config.json
+[2025-03-23 16:59:47.853 - DEBUG - #1553] Background task started: report generation
+[2025-03-23 16:59:48.875 - INFO - #1554] Request received from 192.168.1.1
+[2025-03-23 16:59:49.219 - INFO - #1423] Request received from 192.168.1.1
+[2025-03-23 16:59:50.831 - INFO - #1424] Processing user request
+[2025-03-23 16:59:51.641 - ERROR - #1555] Authentication successful for user 'admin'
+[2025-03-23 16:59:52.582 - INFO - #1556] Processing user request
+[2025-03-23 16:59:53.813 - INFO - #1425] Database query completed in 150ms
+[2025-03-23 16:59:54.776 - INFO - #1557] Connection attempt failed: timeout
+[2025-03-23 16:59:54.916 - INFO - #1426] Request received from 192.168.1.1
+[2025-03-23 16:59:56.273 - DEBUG - #1427] Connection attempt failed: timeout
+[2025-03-23 16:59:56.506 - INFO - #1558] Request received from 192.168.1.1
+[2025-03-23 16:59:57.479 - INFO - #1559] Processing user request
+[2025-03-23 16:59:58.200 - INFO - #1428] Successfully processed batch job #89754
+[2025-03-23 16:59:59.628 - DEBUG - #1560] Data validation error: missing required field
+[2025-03-23 17:00:00.550 - WARNING - #1561] Connection attempt failed: timeout
+[2025-03-23 17:00:01.119 - INFO - #1429] Cache miss detected for key 'user_profile'
+[2025-03-23 17:00:03.458 - INFO - #1562] Connection attempt failed: timeout
+[2025-03-23 17:00:03.668 - INFO - #1430] File not found: config.json
+[2025-03-23 17:00:04.888 - INFO - #1431] Authentication successful for user 'admin'
+[2025-03-23 17:00:05.963 - INFO - #1432] Request received from 192.168.1.1
+[2025-03-23 17:00:06.198 - INFO - #1563] Connection attempt failed: timeout
+[2025-03-23 17:00:07.846 - INFO - #1433] Request received from 192.168.1.1
+[2025-03-23 17:00:08.423 - DEBUG - #1564] Memory usage optimized: freed 250MB
+[2025-03-23 17:00:09.068 - INFO - #1434] Connection attempt failed: timeout
+[2025-03-23 17:00:09.478 - INFO - #1565] Connection attempt failed: timeout
+[2025-03-23 17:00:11.049 - INFO - #1566] Data validation error: missing required field
+[2025-03-23 17:00:11.821 - WARNING - #1435] Connection attempt failed: timeout
+[2025-03-23 17:00:11.970 - DEBUG - #1567] Request received from 192.168.1.1
+[2025-03-23 17:00:12.720 - INFO - #1436] Processing user request
+[2025-03-23 17:00:14.691 - INFO - #1568] API rate limit reached for client ID #1234
+[2025-03-23 17:00:15.675 - INFO - #1437] Request received from 192.168.1.1
+[2025-03-23 17:00:15.972 - INFO - #1569] Request received from 192.168.1.1
+[2025-03-23 17:00:17.513 - INFO - #1438] File not found: config.json
+[2025-03-23 17:00:18.177 - INFO - #1570] Data validation error: missing required field
+[2025-03-23 17:00:18.236 - INFO - #1439] Processing user request
+[2025-03-23 17:00:19.550 - INFO - #1440] Connection attempt failed: timeout
+[2025-03-23 17:00:20.203 - INFO - #1571] Request received from 192.168.1.1
+[2025-03-23 17:00:20.650 - DEBUG - #1441] Authentication successful for user 'admin'
+[2025-03-23 17:00:20.831 - INFO - #1572] Request received from 192.168.1.1
+[2025-03-23 17:00:22.741 - INFO - #1442] Data validation error: missing required field
+[2025-03-23 17:00:23.511 - ERROR - #1573] Database query completed in 150ms
+[2025-03-23 17:00:25.209 - DEBUG - #1443] File not found: config.json
+[2025-03-23 17:00:26.274 - INFO - #1574] Database query completed in 150ms
+[2025-03-23 17:00:26.994 - WARNING - #1444] Request received from 192.168.1.1
+[2025-03-23 17:00:27.046 - INFO - #1575] Background task started: report generation
+[2025-03-23 17:00:28.506 - INFO - #1445] File not found: config.json
+[2025-03-23 17:00:28.770 - DEBUG - #1576] Database query completed in 150ms
+[2025-03-23 17:00:30.728 - INFO - #1577] API rate limit reached for client ID #1234
+[2025-03-23 17:00:30.980 - INFO - #1446] Request received from 192.168.1.1
+[2025-03-23 17:00:31.494 - INFO - #1578] Database query completed in 150ms
+[2025-03-23 17:00:32.853 - DEBUG - #1447] Processing user request
+[2025-03-23 17:00:34.378 - DEBUG - #1579] Connection attempt failed: timeout
+[2025-03-23 17:00:35.413 - INFO - #1448] Background task started: report generation
+[2025-03-23 17:00:36.460 - DEBUG - #1449] API rate limit reached for client ID #1234
+[2025-03-23 17:00:37.308 - INFO - #1580] Background task started: report generation
+[2025-03-23 17:00:38.560 - INFO - #1450] Connection attempt failed: timeout
+[2025-03-23 17:00:39.118 - INFO - #1581] Background task started: report generation
+[2025-03-23 17:00:40.814 - ERROR - #1582] Background task started: report generation
+[2025-03-23 17:00:41.316 - DEBUG - #1451] Processing user request
+[2025-03-23 17:00:41.927 - INFO - #1452] Successfully processed batch job #89754
+[2025-03-23 17:00:42.921 - WARNING - #1583] Cache miss detected for key 'user_profile'
+[2025-03-23 17:00:43.874 - ERROR - #1453] Memory usage optimized: freed 250MB
+[2025-03-23 17:00:45.759 - INFO - #1584] Successfully processed batch job #89754
+[2025-03-23 17:00:46.106 - INFO - #1454] Successfully processed batch job #89754
+[2025-03-23 17:00:46.763 - INFO - #1455] Successfully processed batch job #89754
+[2025-03-23 17:00:47.241 - INFO - #1585] API rate limit reached for client ID #1234
+[2025-03-23 17:00:49.606 - WARNING - #1456] Processing user request
+[2025-03-23 17:00:50.114 - INFO - #1586] API rate limit reached for client ID #1234
+[2025-03-23 17:00:50.729 - INFO - #1457] Memory usage optimized: freed 250MB
+[2025-03-23 17:00:51.926 - INFO - #1458] Authentication successful for user 'admin'
+[2025-03-23 17:00:52.342 - INFO - #1587] API rate limit reached for client ID #1234
+[2025-03-23 17:00:52.730 - DEBUG - #1459] File not found: config.json
+[2025-03-23 17:00:55.154 - INFO - #1588] Authentication successful for user 'admin'
+[2025-03-23 17:00:55.598 - INFO - #1460] Successfully processed batch job #89754
+[2025-03-23 17:00:55.713 - INFO - #1589] Processing user request
+[2025-03-23 17:00:56.447 - WARNING - #1461] Processing user request
+[2025-03-23 17:00:56.992 - WARNING - #1590] Background task started: report generation
+[2025-03-23 17:00:58.463 - WARNING - #1462] Data validation error: missing required field
+[2025-03-23 17:00:59.258 - INFO - #1591] Authentication successful for user 'admin'
+[2025-03-23 17:01:00.092 - INFO - #1463] Authentication successful for user 'admin'
+[2025-03-23 17:01:01.740 - INFO - #1592] Successfully processed batch job #89754
+[2025-03-23 17:01:01.844 - INFO - #1464] API rate limit reached for client ID #1234
+[2025-03-23 17:01:03.058 - INFO - #1465] Successfully processed batch job #89754
+[2025-03-23 17:01:04.224 - WARNING - #1593] File not found: config.json
+[2025-03-23 17:01:04.640 - INFO - #1466] Authentication successful for user 'admin'
+[2025-03-23 17:01:05.695 - INFO - #1467] API rate limit reached for client ID #1234
+[2025-03-23 17:01:06.714 - INFO - #1594] Successfully processed batch job #89754
+[2025-03-23 17:01:07.055 - INFO - #1468] API rate limit reached for client ID #1234
+[2025-03-23 17:01:08.853 - INFO - #1595] Database query completed in 150ms
+[2025-03-23 17:01:09.817 - ERROR - #1469] Successfully processed batch job #89754
+[2025-03-23 17:01:10.794 - WARNING - #1596] Memory usage optimized: freed 250MB
+[2025-03-23 17:01:11.066 - INFO - #1470] Database query completed in 150ms
+[2025-03-23 17:01:11.647 - INFO - #1471] Memory usage optimized: freed 250MB
+[2025-03-23 17:01:12.724 - INFO - #1472] Processing user request
+[2025-03-23 17:01:13.743 - INFO - #1597] Request received from 192.168.1.1
+[2025-03-23 17:01:14.825 - WARNING - #1473] Cache miss detected for key 'user_profile'
+[2025-03-23 17:01:15.835 - DEBUG - #1474] Successfully processed batch job #89754
+[2025-03-23 17:01:16.369 - DEBUG - #1475] Request received from 192.168.1.1
+[2025-03-23 17:01:16.582 - DEBUG - #1598] Memory usage optimized: freed 250MB
+[2025-03-23 17:01:17.915 - DEBUG - #1599] File not found: config.json
+[2025-03-23 17:01:18.431 - INFO - #1476] Authentication successful for user 'admin'
+[2025-03-23 17:01:19.197 - INFO - #1477] File not found: config.json
+[2025-03-23 17:01:20.688 - DEBUG - #1600] Database query completed in 150ms
+[2025-03-23 17:01:20.932 - INFO - #1478] Successfully processed batch job #89754
+[2025-03-23 17:01:21.219 - INFO - #1601] Successfully processed batch job #89754
+[2025-03-23 17:01:23.023 - DEBUG - #1479] Connection attempt failed: timeout
+[2025-03-23 17:01:23.950 - INFO - #1602] Data validation error: missing required field
+[2025-03-23 17:01:24.316 - INFO - #1480] API rate limit reached for client ID #1234
+[2025-03-23 17:01:25.719 - DEBUG - #1603] Data validation error: missing required field
+[2025-03-23 17:01:26.310 - INFO - #1604] Processing user request
+[2025-03-23 17:01:26.741 - INFO - #1481] File not found: config.json
+[2025-03-23 17:01:27.850 - INFO - #1482] Connection attempt failed: timeout
+[2025-03-23 17:01:28.642 - INFO - #1605] File not found: config.json
+[2025-03-23 17:01:29.540 - INFO - #1606] File not found: config.json
+[2025-03-23 17:01:30.161 - INFO - #1483] Request received from 192.168.1.1
+[2025-03-23 17:01:30.959 - INFO - #1607] Request received from 192.168.1.1
+[2025-03-23 17:01:31.869 - INFO - #1484] File not found: config.json
+[2025-03-23 17:01:33.455 - ERROR - #1608] Memory usage optimized: freed 250MB
+[2025-03-23 17:01:34.564 - DEBUG - #1609] Background task started: report generation
+[2025-03-23 17:01:34.810 - INFO - #1485] API rate limit reached for client ID #1234
+[2025-03-23 17:01:35.625 - INFO - #1486] Data validation error: missing required field
+[2025-03-23 17:01:36.765 - INFO - #1487] Memory usage optimized: freed 250MB
+[2025-03-23 17:01:37.393 - INFO - #1610] File not found: config.json
+[2025-03-23 17:01:38.236 - INFO - #1488] Data validation error: missing required field
+[2025-03-23 17:01:40.042 - INFO - #1611] Authentication successful for user 'admin'
+[2025-03-23 17:01:40.926 - DEBUG - #1489] Cache miss detected for key 'user_profile'
+[2025-03-23 17:01:42.402 - INFO - #1490] Background task started: report generation
+[2025-03-23 17:01:42.922 - INFO - #1612] Background task started: report generation
+[2025-03-23 17:01:43.582 - INFO - #1491] Processing user request
+[2025-03-23 17:01:45.684 - INFO - #1613] Memory usage optimized: freed 250MB
+[2025-03-23 17:01:45.857 - INFO - #1492] Database query completed in 150ms
+[2025-03-23 17:01:48.634 - DEBUG - #1493] Connection attempt failed: timeout
+[2025-03-23 17:01:48.664 - INFO - #1614] Connection attempt failed: timeout
+[2025-03-23 17:01:49.679 - ERROR - #1494] Database query completed in 150ms
+[2025-03-23 17:01:50.776 - INFO - #1615] API rate limit reached for client ID #1234
+[2025-03-23 17:01:51.544 - DEBUG - #1495] Data validation error: missing required field
+[2025-03-23 17:01:51.889 - INFO - #1616] File not found: config.json
+[2025-03-23 17:01:53.013 - INFO - #1496] Background task started: report generation
+[2025-03-23 17:01:53.728 - INFO - #1497] File not found: config.json
+[2025-03-23 17:01:54.511 - INFO - #1617] API rate limit reached for client ID #1234
+[2025-03-23 17:01:55.151 - DEBUG - #1498] Processing user request
+[2025-03-23 17:01:56.493 - INFO - #1499] Background task started: report generation
+[2025-03-23 17:01:56.699 - INFO - #1618] Background task started: report generation
+[2025-03-23 17:01:57.417 - INFO - #1619] Database query completed in 150ms
+[2025-03-23 17:01:58.443 - WARNING - #1620] Processing user request
+[2025-03-23 17:01:58.768 - INFO - #1500] Memory usage optimized: freed 250MB
+[2025-03-23 17:01:59.024 - INFO - #1621] Request received from 192.168.1.1
+[2025-03-23 17:01:59.890 - INFO - #1622] Data validation error: missing required field
+[2025-03-23 17:02:00.461 - INFO - #1501] Database query completed in 150ms
+[2025-03-23 17:02:02.185 - INFO - #1502] Authentication successful for user 'admin'
+[2025-03-23 17:02:02.363 - INFO - #1623] Authentication successful for user 'admin'
+[2025-03-23 17:02:04.218 - DEBUG - #1503] Authentication successful for user 'admin'
+[2025-03-23 17:02:04.368 - DEBUG - #1624] Successfully processed batch job #89754
+[2025-03-23 17:02:06.128 - INFO - #1504] Authentication successful for user 'admin'
+[2025-03-23 17:02:06.927 - INFO - #1625] Successfully processed batch job #89754
+[2025-03-23 17:02:06.931 - DEBUG - #1505] Database query completed in 150ms
+[2025-03-23 17:02:09.578 - INFO - #1626] Successfully processed batch job #89754
+[2025-03-23 17:02:09.601 - INFO - #1506] Processing user request
+[2025-03-23 17:02:11.031 - DEBUG - #1627] API rate limit reached for client ID #1234
+[2025-03-23 17:02:12.568 - INFO - #1507] Data validation error: missing required field
+[2025-03-23 17:02:13.571 - INFO - #1628] File not found: config.json
+[2025-03-23 17:02:14.387 - WARNING - #1508] Successfully processed batch job #89754
+[2025-03-23 17:02:15.514 - INFO - #1509] Cache miss detected for key 'user_profile'
+[2025-03-23 17:02:16.198 - ERROR - #1629] Memory usage optimized: freed 250MB
+[2025-03-23 17:02:17.192 - DEBUG - #1630] Data validation error: missing required field
+[2025-03-23 17:02:17.773 - ERROR - #1510] Memory usage optimized: freed 250MB
+[2025-03-23 17:02:19.517 - INFO - #1631] Database query completed in 150ms
+[2025-03-23 17:02:20.106 - INFO - #1511] Database query completed in 150ms
+[2025-03-23 17:02:20.873 - DEBUG - #1512] Request received from 192.168.1.1
+[2025-03-23 17:02:23.176 - INFO - #1513] Data validation error: missing required field
+[2025-03-23 17:02:26.060 - INFO - #1514] Cache miss detected for key 'user_profile'
+[2025-03-23 17:02:28.391 - INFO - #1515] Memory usage optimized: freed 250MB
+[2025-03-23 17:02:30.105 - DEBUG - #1516] Data validation error: missing required field
+[2025-03-23 17:02:30.633 - WARNING - #1517] File not found: config.json
+[2025-03-23 17:02:32.170 - INFO - #1518] API rate limit reached for client ID #1234
+[2025-03-23 17:02:33.034 - INFO - #1519] Database query completed in 150ms
+[2025-03-23 17:02:34.205 - INFO - #1520] Memory usage optimized: freed 250MB
+[2025-03-23 17:02:35.452 - DEBUG - #1521] Connection attempt failed: timeout
+[2025-03-23 17:02:37.392 - INFO - #1522] Connection attempt failed: timeout
+[2025-03-23 17:02:38.906 - DEBUG - #1523] File not found: config.json
+[2025-03-23 17:02:39.495 - INFO - #1524] Connection attempt failed: timeout
+[2025-03-23 17:02:41.973 - INFO - #1525] Authentication successful for user 'admin'
+[2025-03-23 17:02:43.002 - INFO - #1526] Database query completed in 150ms
+[2025-03-23 17:02:44.198 - INFO - #1527] Memory usage optimized: freed 250MB
+[2025-03-23 17:02:45.096 - DEBUG - #1528] API rate limit reached for client ID #1234
+[2025-03-23 17:02:47.732 - DEBUG - #1529] Data validation error: missing required field
+[2025-03-23 17:02:48.422 - INFO - #1530] File not found: config.json
+[2025-03-23 17:02:51.348 - INFO - #1531] Processing user request
+[2025-03-23 17:02:53.877 - ERROR - #1532] Connection attempt failed: timeout
+[2025-03-23 17:02:56.251 - INFO - #1533] File not found: config.json
+[2025-03-23 17:02:57.917 - DEBUG - #1534] Background task started: report generation
+[2025-03-23 17:03:00.622 - INFO - #1535] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:02.156 - INFO - #1536] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:02.980 - INFO - #1537] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:04.406 - INFO - #1538] Background task started: report generation
+[2025-03-23 17:03:07.185 - INFO - #1539] File not found: config.json
+[2025-03-23 17:03:09.173 - INFO - #1540] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:10.300 - INFO - #1541] Request received from 192.168.1.1
+[2025-03-23 17:03:13.279 - INFO - #1542] Connection attempt failed: timeout
+[2025-03-23 17:03:16.122 - INFO - #1543] File not found: config.json
+[2025-03-23 17:03:18.146 - INFO - #1544] Successfully processed batch job #89754
+[2025-03-23 17:03:21.000 - INFO - #1545] API rate limit reached for client ID #1234
+[2025-03-23 17:03:23.478 - INFO - #1546] Processing user request
+[2025-03-23 17:03:24.633 - INFO - #1547] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:25.921 - INFO - #1548] Connection attempt failed: timeout
+[2025-03-23 17:03:27.073 - INFO - #1549] Memory usage optimized: freed 250MB
+[2025-03-23 17:03:28.001 - INFO - #1550] API rate limit reached for client ID #1234
+[2025-03-23 17:03:29.124 - WARNING - #1551] Background task started: report generation
+[2025-03-23 17:03:29.643 - INFO - #1552] Connection attempt failed: timeout
+[2025-03-23 17:03:31.397 - INFO - #1553] File not found: config.json
+[2025-03-23 17:03:33.344 - INFO - #1554] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:33.935 - DEBUG - #1555] File not found: config.json
+[2025-03-23 17:03:36.324 - INFO - #1556] Processing user request
+[2025-03-23 17:03:37.025 - DEBUG - #1557] Authentication successful for user 'admin'
+[2025-03-23 17:03:37.726 - INFO - #1558] Successfully processed batch job #89754
+[2025-03-23 17:03:40.635 - INFO - #1559] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:42.267 - DEBUG - #1560] API rate limit reached for client ID #1234
+[2025-03-23 17:03:44.477 - INFO - #1561] Successfully processed batch job #89754
+[2025-03-23 17:03:45.842 - DEBUG - #1562] Successfully processed batch job #89754
+[2025-03-23 17:03:46.347 - INFO - #1563] Authentication successful for user 'admin'
+[2025-03-23 17:03:46.973 - INFO - #1564] Background task started: report generation
+[2025-03-23 17:03:47.736 - WARNING - #1565] Connection attempt failed: timeout
+[2025-03-23 17:03:48.877 - WARNING - #1566] Authentication successful for user 'admin'
+[2025-03-23 17:03:50.185 - INFO - #1567] Memory usage optimized: freed 250MB
+[2025-03-23 17:03:51.009 - INFO - #1568] Successfully processed batch job #89754
+[2025-03-23 17:03:51.747 - INFO - #1569] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:52.524 - INFO - #1570] Successfully processed batch job #89754
+[2025-03-23 17:03:53.576 - INFO - #1571] Data validation error: missing required field
+[2025-03-23 17:03:56.051 - WARNING - #1572] Cache miss detected for key 'user_profile'
+[2025-03-23 17:03:58.247 - INFO - #1573] Connection attempt failed: timeout
+[2025-03-23 17:03:59.809 - INFO - #1574] Processing user request
+[2025-03-23 17:04:01.364 - INFO - #1575] File not found: config.json
+[2025-03-23 17:04:02.501 - INFO - #1576] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:04.914 - INFO - #1577] Memory usage optimized: freed 250MB
+[2025-03-23 17:04:05.490 - INFO - #1578] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:06.557 - INFO - #1579] Connection attempt failed: timeout
+[2025-03-23 17:04:08.891 - INFO - #1580] Successfully processed batch job #89754
+[2025-03-23 17:04:09.982 - INFO - #1581] Processing user request
+[2025-03-23 17:04:12.492 - ERROR - #1582] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:13.392 - INFO - #1583] Background task started: report generation
+[2025-03-23 17:04:13.993 - DEBUG - #1584] Data validation error: missing required field
+[2025-03-23 17:04:16.137 - ERROR - #1585] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:18.577 - WARNING - #1586] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:20.822 - INFO - #1587] Data validation error: missing required field
+[2025-03-23 17:04:23.010 - INFO - #1588] Database query completed in 150ms
+[2025-03-23 17:04:25.117 - INFO - #1589] Database query completed in 150ms
+[2025-03-23 17:04:27.529 - INFO - #1590] Data validation error: missing required field
+[2025-03-23 17:04:28.726 - INFO - #1591] Background task started: report generation
+[2025-03-23 17:04:31.140 - DEBUG - #1592] Data validation error: missing required field
+[2025-03-23 17:04:33.953 - INFO - #1593] Processing user request
+[2025-03-23 17:04:34.527 - INFO - #1594] File not found: config.json
+[2025-03-23 17:04:35.157 - WARNING - #1595] Processing user request
+[2025-03-23 17:04:35.713 - WARNING - #1596] Background task started: report generation
+[2025-03-23 17:04:36.398 - INFO - #1597] Database query completed in 150ms
+[2025-03-23 17:04:36.945 - INFO - #1598] Memory usage optimized: freed 250MB
+[2025-03-23 17:04:37.848 - INFO - #1599] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:38.691 - INFO - #1600] Data validation error: missing required field
+[2025-03-23 17:04:40.476 - DEBUG - #1601] Database query completed in 150ms
+[2025-03-23 17:04:43.008 - INFO - #1602] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:45.330 - INFO - #1603] Data validation error: missing required field
+[2025-03-23 17:04:46.987 - WARNING - #1604] Background task started: report generation
+[2025-03-23 17:04:49.836 - INFO - #1605] Authentication successful for user 'admin'
+[2025-03-23 17:04:52.769 - INFO - #1606] Database query completed in 150ms
+[2025-03-23 17:04:53.666 - INFO - #1607] Memory usage optimized: freed 250MB
+[2025-03-23 17:04:54.925 - INFO - #1608] File not found: config.json
+[2025-03-23 17:04:56.675 - DEBUG - #1609] Cache miss detected for key 'user_profile'
+[2025-03-23 17:04:59.218 - INFO - #1610] Database query completed in 150ms
+[2025-03-23 17:05:01.701 - INFO - #1611] Memory usage optimized: freed 250MB
+[2025-03-23 17:05:02.622 - DEBUG - #1612] API rate limit reached for client ID #1234
+[2025-03-23 17:05:03.621 - WARNING - #1613] Authentication successful for user 'admin'
+[2025-03-23 17:05:04.674 - INFO - #1614] Cache miss detected for key 'user_profile'
+[2025-03-23 17:05:06.616 - DEBUG - #1615] Authentication successful for user 'admin'
+[2025-03-23 17:05:07.681 - INFO - #1616] API rate limit reached for client ID #1234
+[2025-03-23 17:05:09.218 - INFO - #1617] Connection attempt failed: timeout
+[2025-03-23 17:05:11.722 - INFO - #1618] Data validation error: missing required field
+[2025-03-23 17:05:13.980 - INFO - #1619] API rate limit reached for client ID #1234
+[2025-03-23 17:05:14.778 - ERROR - #1620] Memory usage optimized: freed 250MB
+[2025-03-23 17:05:17.411 - INFO - #1621] API rate limit reached for client ID #1234
+[2025-03-23 17:05:18.903 - INFO - #1622] File not found: config.json
+[2025-03-23 17:05:20.826 - INFO - #1623] Connection attempt failed: timeout
+[2025-03-23 17:05:23.370 - DEBUG - #1624] Successfully processed batch job #89754
+[2025-03-23 17:05:26.354 - ERROR - #1625] Successfully processed batch job #89754
+[2025-03-23 17:05:27.688 - INFO - #1626] File not found: config.json
+[2025-03-23 17:05:30.280 - ERROR - #1627] Authentication successful for user 'admin'
+[2025-03-23 17:05:32.532 - INFO - #1628] File not found: config.json
+[2025-03-23 17:05:35.319 - INFO - #1629] API rate limit reached for client ID #1234
+[2025-03-23 17:05:36.595 - DEBUG - #1630] Data validation error: missing required field
+[2025-03-23 17:05:37.787 - INFO - #1631] Connection attempt failed: timeout
+[2025-03-23 17:05:39.881 - INFO - #1632] Background task started: report generation
+[2025-03-23 17:05:42.465 - INFO - #1633] Cache miss detected for key 'user_profile'
+[2025-03-23 17:05:44.481 - INFO - #1634] Cache miss detected for key 'user_profile'
+[2025-03-23 17:05:46.458 - INFO - #1635] Processing user request
+[2025-03-23 17:05:48.280 - INFO - #1636] Cache miss detected for key 'user_profile'
+[2025-03-23 17:05:49.619 - INFO - #1637] Request received from 192.168.1.1
+[2025-03-23 17:05:50.599 - DEBUG - #1638] Cache miss detected for key 'user_profile'
+[2025-03-23 17:05:51.807 - DEBUG - #1639] Data validation error: missing required field
+[2025-03-23 17:05:53.099 - INFO - #1640] Authentication successful for user 'admin'
+[2025-03-23 17:05:54.560 - WARNING - #1641] Memory usage optimized: freed 250MB
+[2025-03-23 17:05:55.820 - INFO - #1642] Database query completed in 150ms
+[2025-03-23 17:05:58.153 - WARNING - #1643] Cache miss detected for key 'user_profile'
+[2025-03-23 17:06:00.931 - INFO - #1644] Connection attempt failed: timeout
+[2025-03-23 17:06:03.767 - WARNING - #1645] Request received from 192.168.1.1
+[2025-03-23 17:06:06.046 - DEBUG - #1646] Memory usage optimized: freed 250MB
+[2025-03-23 17:06:08.453 - INFO - #1647] Cache miss detected for key 'user_profile'
+[2025-03-23 17:06:09.392 - DEBUG - #1648] API rate limit reached for client ID #1234
+[2025-03-23 17:06:11.254 - INFO - #1649] Data validation error: missing required field
+[2025-03-23 17:06:14.142 - INFO - #1650] Database query completed in 150ms
+[2025-03-23 17:06:15.685 - INFO - #1651] Cache miss detected for key 'user_profile'
+[2025-03-23 17:06:16.356 - INFO - #1652] Authentication successful for user 'admin'
+[2025-03-23 17:06:19.242 - INFO - #1653] Authentication successful for user 'admin'
+[2025-03-23 17:06:22.227 - INFO - #1654] Successfully processed batch job #89754
+[2025-03-23 17:06:24.687 - INFO - #1655] Processing user request
+[2025-03-23 17:06:25.826 - INFO - #1656] Authentication successful for user 'admin'
+[2025-03-23 17:06:28.504 - INFO - #1657] Successfully processed batch job #89754
+[2025-03-23 17:06:29.264 - INFO - #1658] Request received from 192.168.1.1
+[2025-03-23 17:06:29.896 - DEBUG - #1659] Memory usage optimized: freed 250MB
+[2025-03-23 17:06:31.745 - DEBUG - #1660] Processing user request
+[2025-03-23 17:06:33.760 - DEBUG - #1661] Successfully processed batch job #89754
+[2025-03-23 17:06:35.879 - INFO - #1662] File not found: config.json
+[2025-03-23 17:06:37.441 - INFO - #1663] Database query completed in 150ms
+[2025-03-23 17:06:38.384 - INFO - #1664] Connection attempt failed: timeout
+[2025-03-23 17:06:40.474 - INFO - #1665] Memory usage optimized: freed 250MB
+[2025-03-23 17:06:41.580 - INFO - #1666] File not found: config.json
+[2025-03-23 17:06:44.071 - INFO - #1667] Data validation error: missing required field
+[2025-03-23 17:06:46.243 - INFO - #1668] Request received from 192.168.1.1
+[2025-03-23 17:06:48.907 - INFO - #1669] Database query completed in 150ms
+[2025-03-23 17:06:49.762 - INFO - #1670] Data validation error: missing required field
+[2025-03-23 17:06:52.512 - INFO - #1671] Processing user request
+[2025-03-23 17:06:54.470 - INFO - #1672] Data validation error: missing required field
+[2025-03-23 17:06:56.590 - INFO - #1673] Background task started: report generation
+[2025-03-23 17:06:58.382 - DEBUG - #1674] Authentication successful for user 'admin'
+[2025-03-23 17:06:59.849 - INFO - #1675] Memory usage optimized: freed 250MB
+[2025-03-23 17:07:00.822 - INFO - #1676] Connection attempt failed: timeout
+[2025-03-23 17:07:02.481 - ERROR - #1677] Successfully processed batch job #89754
+[2025-03-23 17:07:03.514 - INFO - #1678] Cache miss detected for key 'user_profile'
+[2025-03-23 17:07:06.210 - INFO - #1679] Successfully processed batch job #89754
+[2025-03-23 17:07:06.756 - INFO - #1680] Cache miss detected for key 'user_profile'
+[2025-03-23 17:07:07.775 - INFO - #1681] Data validation error: missing required field
+[2025-03-23 17:07:09.897 - INFO - #1682] Data validation error: missing required field
+[2025-03-23 17:07:10.427 - INFO - #1683] Authentication successful for user 'admin'
+[2025-03-23 17:07:11.875 - DEBUG - #1684] Connection attempt failed: timeout
+[2025-03-23 17:07:14.813 - INFO - #1685] Processing user request
+[2025-03-23 17:07:17.397 - INFO - #1686] Database query completed in 150ms
+[2025-03-23 17:07:19.726 - DEBUG - #1687] File not found: config.json
+[2025-03-23 17:07:20.381 - INFO - #1688] Request received from 192.168.1.1
+[2025-03-23 17:07:23.246 - INFO - #1689] Authentication successful for user 'admin'
+[2025-03-23 17:07:25.488 - INFO - #1690] API rate limit reached for client ID #1234
+[2025-03-23 17:07:26.472 - INFO - #1691] File not found: config.json
+[2025-03-23 17:07:29.464 - DEBUG - #1692] Cache miss detected for key 'user_profile'
+[2025-03-23 17:07:32.154 - INFO - #1693] File not found: config.json
+[2025-03-23 17:07:34.416 - DEBUG - #1694] File not found: config.json
+[2025-03-23 17:07:36.334 - INFO - #1695] Successfully processed batch job #89754
+[2025-03-23 17:07:37.266 - INFO - #1696] Data validation error: missing required field
+[2025-03-23 17:07:38.245 - INFO - #1697] API rate limit reached for client ID #1234
+[2025-03-23 17:07:39.960 - INFO - #1698] Database query completed in 150ms
+[2025-03-23 17:07:40.964 - DEBUG - #1699] Data validation error: missing required field
+[2025-03-23 17:07:43.966 - DEBUG - #1700] File not found: config.json
+[2025-03-23 17:07:44.989 - INFO - #1701] API rate limit reached for client ID #1234
+[2025-03-23 17:07:46.185 - DEBUG - #1702] Cache miss detected for key 'user_profile'
+[2025-03-23 17:07:47.219 - INFO - #1703] Background task started: report generation
+[2025-03-23 17:07:49.697 - INFO - #1704] API rate limit reached for client ID #1234
+[2025-03-23 17:07:52.545 - INFO - #1705] Cache miss detected for key 'user_profile'
+[2025-03-23 17:07:54.396 - DEBUG - #1706] Background task started: report generation
+[2025-03-23 17:07:55.985 - INFO - #1707] Data validation error: missing required field
+[2025-03-23 17:07:58.492 - DEBUG - #1708] Data validation error: missing required field
+[2025-03-23 17:07:59.146 - DEBUG - #1709] Cache miss detected for key 'user_profile'
+[2025-03-23 17:08:01.651 - INFO - #1710] Successfully processed batch job #89754
+[2025-03-23 17:08:02.644 - INFO - #1711] Memory usage optimized: freed 250MB
+[2025-03-23 17:08:05.523 - INFO - #1712] File not found: config.json
+[2025-03-23 17:08:07.465 - WARNING - #1713] Background task started: report generation
+[2025-03-23 17:08:09.682 - ERROR - #1714] Request received from 192.168.1.1
+[2025-03-23 17:08:11.673 - DEBUG - #1715] Cache miss detected for key 'user_profile'
+[2025-03-23 17:08:12.834 - INFO - #1716] Cache miss detected for key 'user_profile'
+[2025-03-23 17:08:13.368 - DEBUG - #1717] Background task started: report generation
+[2025-03-23 17:08:15.980 - WARNING - #1718] File not found: config.json
+[2025-03-23 17:08:17.626 - INFO - #1719] Database query completed in 150ms
+[2025-03-23 17:08:19.251 - INFO - #1720] Processing user request
+[2025-03-23 17:08:20.486 - DEBUG - #1721] File not found: config.json
+[2025-03-23 17:08:22.773 - INFO - #1722] Database query completed in 150ms
+[2025-03-23 17:08:25.004 - INFO - #1723] Processing user request
+[2025-03-23 17:08:25.579 - DEBUG - #1724] Data validation error: missing required field
+[2025-03-23 17:08:26.679 - INFO - #1725] Authentication successful for user 'admin'
+[2025-03-23 17:08:27.758 - INFO - #1726] Successfully processed batch job #89754
+[2025-03-23 17:08:29.453 - INFO - #1727] Processing user request
+[2025-03-23 17:08:30.202 - INFO - #1728] File not found: config.json
+[2025-03-23 17:08:31.758 - INFO - #1729] Data validation error: missing required field
+[2025-03-23 17:08:34.290 - INFO - #1730] Data validation error: missing required field
+[2025-03-23 17:08:36.288 - DEBUG - #1731] Memory usage optimized: freed 250MB
+[2025-03-23 17:08:37.766 - INFO - #1732] Database query completed in 150ms
+[2025-03-23 17:08:38.428 - INFO - #1733] API rate limit reached for client ID #1234
+[2025-03-23 17:08:39.199 - INFO - #1734] Connection attempt failed: timeout
+[2025-03-23 17:08:41.787 - INFO - #1735] File not found: config.json
+[2025-03-23 17:08:42.912 - DEBUG - #1736] Background task started: report generation
+[2025-03-23 17:08:43.525 - DEBUG - #1737] Authentication successful for user 'admin'
+[2025-03-23 17:08:45.710 - DEBUG - #1738] Authentication successful for user 'admin'
+[2025-03-23 17:08:48.362 - DEBUG - #1739] Successfully processed batch job #89754
+[2025-03-23 17:08:49.714 - INFO - #1740] Cache miss detected for key 'user_profile'
+[2025-03-23 17:08:52.055 - INFO - #1741] Memory usage optimized: freed 250MB
+[2025-03-23 17:08:53.022 - INFO - #1742] Processing user request
+[2025-03-23 17:08:53.684 - ERROR - #1743] Background task started: report generation
+[2025-03-23 17:08:55.946 - INFO - #1744] Memory usage optimized: freed 250MB
+[2025-03-23 17:08:58.174 - INFO - #1745] API rate limit reached for client ID #1234
+[2025-03-23 17:09:00.505 - INFO - #1746] Cache miss detected for key 'user_profile'
+[2025-03-23 17:09:03.146 - INFO - #1747] Cache miss detected for key 'user_profile'
+[2025-03-23 17:09:03.856 - INFO - #1748] Request received from 192.168.1.1
+[2025-03-23 17:09:04.370 - INFO - #1749] Data validation error: missing required field
+[2025-03-23 17:09:06.820 - INFO - #1750] Cache miss detected for key 'user_profile'
+[2025-03-23 17:09:08.984 - INFO - #1751] File not found: config.json
+[2025-03-23 17:09:11.808 - INFO - #1752] Authentication successful for user 'admin'
+[2025-03-23 17:09:13.493 - INFO - #1753] API rate limit reached for client ID #1234
+[2025-03-23 17:09:14.234 - INFO - #1754] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:15.919 - INFO - #1755] Processing user request
+[2025-03-23 17:09:16.651 - INFO - #1756] Request received from 192.168.1.1
+[2025-03-23 17:09:17.488 - INFO - #1757] Data validation error: missing required field
+[2025-03-23 17:09:18.144 - DEBUG - #1758] Cache miss detected for key 'user_profile'
+[2025-03-23 17:09:18.777 - INFO - #1759] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:21.494 - INFO - #1760] Request received from 192.168.1.1
+[2025-03-23 17:09:23.802 - INFO - #1761] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:25.616 - INFO - #1762] Database query completed in 150ms
+[2025-03-23 17:09:27.435 - INFO - #1763] File not found: config.json
+[2025-03-23 17:09:29.431 - INFO - #1764] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:31.113 - INFO - #1765] API rate limit reached for client ID #1234
+[2025-03-23 17:09:32.225 - INFO - #1766] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:33.398 - INFO - #1767] Data validation error: missing required field
+[2025-03-23 17:09:35.313 - DEBUG - #1768] Request received from 192.168.1.1
+[2025-03-23 17:09:36.612 - INFO - #1769] Data validation error: missing required field
+[2025-03-23 17:09:37.786 - INFO - #1770] File not found: config.json
+[2025-03-23 17:09:39.808 - INFO - #1771] File not found: config.json
+[2025-03-23 17:09:42.009 - DEBUG - #1772] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:44.975 - INFO - #1773] Database query completed in 150ms
+[2025-03-23 17:09:47.580 - INFO - #1774] Connection attempt failed: timeout
+[2025-03-23 17:09:48.379 - INFO - #1775] Connection attempt failed: timeout
+[2025-03-23 17:09:49.558 - INFO - #1776] Cache miss detected for key 'user_profile'
+[2025-03-23 17:09:50.131 - INFO - #1777] File not found: config.json
+[2025-03-23 17:09:51.508 - INFO - #1778] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:52.551 - INFO - #1779] Connection attempt failed: timeout
+[2025-03-23 17:09:53.948 - DEBUG - #1780] Database query completed in 150ms
+[2025-03-23 17:09:55.142 - INFO - #1781] Database query completed in 150ms
+[2025-03-23 17:09:57.292 - INFO - #1782] Memory usage optimized: freed 250MB
+[2025-03-23 17:09:59.424 - INFO - #1783] Request received from 192.168.1.1
+[2025-03-23 17:10:01.085 - INFO - #1784] Processing user request
+[2025-03-23 17:10:02.606 - DEBUG - #1785] Memory usage optimized: freed 250MB
+[2025-03-23 17:10:04.505 - INFO - #1786] Background task started: report generation
+[2025-03-23 17:10:06.856 - INFO - #1787] File not found: config.json
+[2025-03-23 17:10:09.743 - DEBUG - #1788] API rate limit reached for client ID #1234
+[2025-03-23 17:10:12.293 - DEBUG - #1789] File not found: config.json
+[2025-03-23 17:10:12.961 - INFO - #1790] Data validation error: missing required field
+[2025-03-23 17:10:15.242 - DEBUG - #1791] API rate limit reached for client ID #1234
+[2025-03-23 17:10:18.205 - INFO - #1792] Background task started: report generation
+[2025-03-23 17:10:18.922 - INFO - #1793] Memory usage optimized: freed 250MB
+[2025-03-23 17:10:21.248 - INFO - #1794] Successfully processed batch job #89754
+[2025-03-23 17:10:22.721 - INFO - #1795] Request received from 192.168.1.1
+[2025-03-23 17:10:24.914 - INFO - #1796] Successfully processed batch job #89754
+[2025-03-23 17:10:25.798 - INFO - #1797] Connection attempt failed: timeout
+[2025-03-23 17:10:27.836 - INFO - #1798] Memory usage optimized: freed 250MB
+[2025-03-23 17:10:29.920 - INFO - #1799] Memory usage optimized: freed 250MB
+[2025-03-23 17:10:31.308 - WARNING - #1800] Cache miss detected for key 'user_profile'
+[2025-03-23 17:10:33.613 - INFO - #1801] Cache miss detected for key 'user_profile'
+[2025-03-23 17:10:35.139 - INFO - #1802] Request received from 192.168.1.1
+[2025-03-23 17:10:37.658 - INFO - #1803] Authentication successful for user 'admin'
+[2025-03-23 17:10:39.198 - INFO - #1804] Database query completed in 150ms
+[2025-03-23 17:10:40.526 - INFO - #1805] File not found: config.json
+[2025-03-23 17:10:42.031 - INFO - #1806] Request received from 192.168.1.1
+[2025-03-23 17:10:43.247 - DEBUG - #1807] Memory usage optimized: freed 250MB
+[2025-03-23 17:10:44.281 - INFO - #1808] Authentication successful for user 'admin'
+[2025-03-23 17:10:45.663 - DEBUG - #1809] Request received from 192.168.1.1
+[2025-03-23 17:10:48.223 - INFO - #1810] API rate limit reached for client ID #1234
+[2025-03-23 17:10:50.204 - DEBUG - #1811] File not found: config.json
+[2025-03-23 17:10:50.945 - INFO - #1812] Request received from 192.168.1.1
+[2025-03-23 17:10:52.847 - ERROR - #1813] Processing user request
+[2025-03-23 17:10:54.656 - DEBUG - #1814] Data validation error: missing required field
+[2025-03-23 17:10:57.299 - INFO - #1815] Authentication successful for user 'admin'
+[2025-03-23 17:10:59.861 - INFO - #1816] File not found: config.json
+[2025-03-23 17:11:01.634 - INFO - #1817] Background task started: report generation
+[2025-03-23 17:11:04.420 - INFO - #1818] Memory usage optimized: freed 250MB
+[2025-03-23 17:11:06.715 - INFO - #1819] Data validation error: missing required field
+[2025-03-23 17:11:09.100 - DEBUG - #1820] Processing user request
+[2025-03-23 17:11:10.750 - INFO - #1821] Connection attempt failed: timeout
+[2025-03-23 17:11:12.105 - INFO - #1822] Background task started: report generation
+[2025-03-23 17:11:13.167 - DEBUG - #1823] Authentication successful for user 'admin'
+[2025-03-23 17:11:14.299 - INFO - #1824] Database query completed in 150ms
+[2025-03-23 17:11:14.826 - INFO - #1825] Database query completed in 150ms
+[2025-03-23 17:11:16.517 - INFO - #1826] Authentication successful for user 'admin'
+[2025-03-23 17:11:19.345 - INFO - #1827] Request received from 192.168.1.1
+[2025-03-23 17:11:22.244 - WARNING - #1828] Processing user request
+[2025-03-23 17:11:24.462 - DEBUG - #1829] File not found: config.json
+[2025-03-23 17:11:26.444 - INFO - #1830] Database query completed in 150ms
+[2025-03-23 17:11:28.954 - INFO - #1831] Memory usage optimized: freed 250MB
+[2025-03-23 17:11:30.821 - INFO - #1832] Database query completed in 150ms
+[2025-03-23 17:11:33.055 - INFO - #1833] Memory usage optimized: freed 250MB
+[2025-03-23 17:11:34.402 - INFO - #1834] Connection attempt failed: timeout
+[2025-03-23 17:11:35.723 - ERROR - #1835] Authentication successful for user 'admin'
+[2025-03-23 17:11:36.715 - INFO - #1836] File not found: config.json
+[2025-03-23 17:11:37.420 - INFO - #1837] Cache miss detected for key 'user_profile'
+[2025-03-23 17:11:39.577 - INFO - #1838] Authentication successful for user 'admin'
+[2025-03-23 17:11:40.142 - DEBUG - #1839] Connection attempt failed: timeout
+[2025-03-23 17:11:42.560 - ERROR - #1840] Connection attempt failed: timeout
+[2025-03-23 17:11:44.970 - INFO - #1841] Authentication successful for user 'admin'
+[2025-03-23 17:11:46.954 - WARNING - #1842] Authentication successful for user 'admin'
+[2025-03-23 17:11:49.642 - DEBUG - #1843] Connection attempt failed: timeout
+[2025-03-23 17:11:51.655 - DEBUG - #1844] Memory usage optimized: freed 250MB
+[2025-03-23 17:11:52.988 - INFO - #1845] File not found: config.json
+[2025-03-23 17:11:55.774 - INFO - #1846] Database query completed in 150ms
+[2025-03-23 17:11:56.615 - INFO - #1847] File not found: config.json
+[2025-03-23 17:11:58.338 - INFO - #1848] Background task started: report generation
+[2025-03-23 17:12:00.755 - INFO - #1849] Database query completed in 150ms
+[2025-03-23 17:12:03.167 - WARNING - #1850] Processing user request
+[2025-03-23 17:12:05.953 - WARNING - #1851] Processing user request
+[2025-03-23 17:12:07.633 - INFO - #1852] Request received from 192.168.1.1
+[2025-03-23 17:12:09.075 - INFO - #1853] File not found: config.json
+[2025-03-23 17:12:11.116 - INFO - #1854] Memory usage optimized: freed 250MB
+[2025-03-23 17:12:13.394 - INFO - #1855] Database query completed in 150ms
+[2025-03-23 17:12:14.589 - INFO - #1856] Authentication successful for user 'admin'
+[2025-03-23 17:12:17.018 - INFO - #1857] Background task started: report generation
+[2025-03-23 17:12:18.227 - INFO - #1858] Data validation error: missing required field
+[2025-03-23 17:12:20.376 - INFO - #1859] Authentication successful for user 'admin'
+[2025-03-23 17:12:22.640 - INFO - #1860] Authentication successful for user 'admin'
+[2025-03-23 17:12:24.426 - WARNING - #1861] File not found: config.json
+[2025-03-23 17:12:26.916 - DEBUG - #1862] Request received from 192.168.1.1
+[2025-03-23 17:12:29.361 - DEBUG - #1863] API rate limit reached for client ID #1234
+[2025-03-23 17:12:31.239 - INFO - #1864] Data validation error: missing required field
+[2025-03-23 17:12:33.752 - INFO - #1865] Memory usage optimized: freed 250MB
+[2025-03-23 17:12:34.553 - DEBUG - #1866] Processing user request
+[2025-03-23 17:12:37.516 - DEBUG - #1867] Cache miss detected for key 'user_profile'
+[2025-03-23 17:12:38.844 - DEBUG - #1868] Successfully processed batch job #89754
+[2025-03-23 17:12:41.168 - INFO - #1869] Connection attempt failed: timeout
+[2025-03-23 17:12:42.552 - INFO - #1870] API rate limit reached for client ID #1234
+[2025-03-23 17:12:43.289 - INFO - #1871] Memory usage optimized: freed 250MB
+[2025-03-23 17:12:45.930 - INFO - #1872] Connection attempt failed: timeout
+[2025-03-23 17:12:48.690 - INFO - #1873] Memory usage optimized: freed 250MB
+[2025-03-23 17:12:51.215 - INFO - #1874] Connection attempt failed: timeout
+[2025-03-23 17:12:51.997 - INFO - #1875] Connection attempt failed: timeout
+[2025-03-23 17:12:52.761 - INFO - #1876] Cache miss detected for key 'user_profile'
+[2025-03-23 17:12:53.860 - INFO - #1877] Database query completed in 150ms
+[2025-03-23 17:12:54.594 - INFO - #1878] Successfully processed batch job #89754
+[2025-03-23 17:12:56.554 - INFO - #1879] Cache miss detected for key 'user_profile'
+[2025-03-23 17:12:58.114 - INFO - #1880] Request received from 192.168.1.1
+[2025-03-23 17:13:00.854 - INFO - #1881] Authentication successful for user 'admin'
+[2025-03-23 17:13:01.565 - INFO - #1882] Successfully processed batch job #89754
+[2025-03-23 17:13:02.611 - INFO - #1883] Data validation error: missing required field
+[2025-03-23 17:13:03.209 - INFO - #1884] Database query completed in 150ms
+[2025-03-23 17:13:04.786 - INFO - #1885] Successfully processed batch job #89754
+[2025-03-23 17:13:07.226 - DEBUG - #1886] Data validation error: missing required field
+[2025-03-23 17:13:09.873 - INFO - #1887] Memory usage optimized: freed 250MB
+[2025-03-23 17:13:12.316 - DEBUG - #1888] Cache miss detected for key 'user_profile'
+[2025-03-23 17:13:12.938 - INFO - #1889] File not found: config.json
+[2025-03-23 17:13:14.288 - INFO - #1890] Background task started: report generation
+[2025-03-23 17:13:15.847 - INFO - #1891] Background task started: report generation
+[2025-03-23 17:13:18.457 - INFO - #1892] Memory usage optimized: freed 250MB
+[2025-03-23 17:13:19.443 - INFO - #1893] Database query completed in 150ms
+[2025-03-23 17:13:21.804 - INFO - #1894] Authentication successful for user 'admin'
+[2025-03-23 17:13:23.727 - DEBUG - #1895] Connection attempt failed: timeout
+[2025-03-23 17:13:26.662 - DEBUG - #1896] Cache miss detected for key 'user_profile'
+[2025-03-23 17:13:28.050 - INFO - #1897] Processing user request
+[2025-03-23 17:13:30.803 - INFO - #1898] Authentication successful for user 'admin'
+[2025-03-23 17:13:33.126 - INFO - #1899] Data validation error: missing required field
+[2025-03-23 17:13:36.005 - INFO - #1900] Cache miss detected for key 'user_profile'
+[2025-03-23 17:13:37.504 - INFO - #1901] Successfully processed batch job #89754
+[2025-03-23 17:13:38.376 - ERROR - #1902] Request received from 192.168.1.1
+[2025-03-23 17:13:39.676 - DEBUG - #1903] File not found: config.json
+[2025-03-23 17:13:41.532 - INFO - #1904] Request received from 192.168.1.1
+[2025-03-23 17:13:42.641 - INFO - #1905] Processing user request
+[2025-03-23 17:13:44.503 - INFO - #1906] Connection attempt failed: timeout
+[2025-03-23 17:13:45.918 - INFO - #1907] File not found: config.json
+[2025-03-23 17:13:47.247 - INFO - #1908] Processing user request
+[2025-03-23 17:13:49.981 - INFO - #1909] Background task started: report generation
+[2025-03-23 17:13:52.744 - WARNING - #1910] Processing user request
+[2025-03-23 17:13:54.659 - INFO - #1911] Authentication successful for user 'admin'
+[2025-03-23 17:13:56.341 - INFO - #1912] Connection attempt failed: timeout
+[2025-03-23 17:13:58.544 - DEBUG - #1913] Authentication successful for user 'admin'
+[2025-03-23 17:14:01.466 - INFO - #1914] Authentication successful for user 'admin'
+[2025-03-23 17:14:03.465 - INFO - #1915] File not found: config.json
+[2025-03-23 17:14:05.992 - INFO - #1916] Database query completed in 150ms
+[2025-03-23 17:14:06.885 - INFO - #1917] Connection attempt failed: timeout
+[2025-03-23 17:14:07.701 - INFO - #1918] Processing user request
+[2025-03-23 17:14:09.048 - INFO - #1919] Cache miss detected for key 'user_profile'
+[2025-03-23 17:14:09.627 - INFO - #1920] Database query completed in 150ms
+[2025-03-23 17:14:10.579 - INFO - #1921] Memory usage optimized: freed 250MB
+[2025-03-23 17:14:12.664 - INFO - #1922] File not found: config.json
+[2025-03-23 17:14:14.366 - DEBUG - #1923] Memory usage optimized: freed 250MB
+[2025-03-23 17:14:16.149 - INFO - #1924] Cache miss detected for key 'user_profile'
+[2025-03-23 17:14:17.985 - INFO - #1925] Data validation error: missing required field
+[2025-03-23 17:14:20.553 - INFO - #1926] Data validation error: missing required field
+[2025-03-23 17:14:22.324 - INFO - #1927] Authentication successful for user 'admin'
+[2025-03-23 17:14:23.674 - INFO - #1928] Connection attempt failed: timeout
+[2025-03-23 17:14:24.481 - INFO - #1929] Connection attempt failed: timeout
+[2025-03-23 17:14:26.248 - INFO - #1930] Processing user request
+[2025-03-23 17:14:28.797 - DEBUG - #1931] File not found: config.json
+[2025-03-23 17:14:31.782 - INFO - #1932] Authentication successful for user 'admin'
+[2025-03-23 17:14:32.922 - INFO - #1933] Database query completed in 150ms
+[2025-03-23 17:14:34.486 - DEBUG - #1934] Authentication successful for user 'admin'
+[2025-03-23 17:14:36.110 - INFO - #1935] Request received from 192.168.1.1
+[2025-03-23 17:14:37.263 - WARNING - #1936] Data validation error: missing required field
+[2025-03-23 17:14:40.153 - INFO - #1937] API rate limit reached for client ID #1234
+[2025-03-23 17:14:41.322 - INFO - #1938] Successfully processed batch job #89754
+[2025-03-23 17:14:42.978 - INFO - #1939] Processing user request
+[2025-03-23 17:14:44.887 - DEBUG - #1940] Request received from 192.168.1.1
+[2025-03-23 17:14:46.541 - INFO - #1941] File not found: config.json
+[2025-03-23 17:14:47.672 - INFO - #1942] Memory usage optimized: freed 250MB
+[2025-03-23 17:14:50.624 - INFO - #1943] Memory usage optimized: freed 250MB
+[2025-03-23 17:14:51.406 - INFO - #1944] Request received from 192.168.1.1
+[2025-03-23 17:14:52.403 - INFO - #1945] Cache miss detected for key 'user_profile'
+[2025-03-23 17:14:54.572 - INFO - #1946] Processing user request
+[2025-03-23 17:14:55.084 - INFO - #1947] File not found: config.json
+[2025-03-23 17:14:55.603 - INFO - #1948] Data validation error: missing required field
+[2025-03-23 17:14:56.966 - INFO - #1949] File not found: config.json
+[2025-03-23 17:14:58.672 - INFO - #1950] Processing user request
+[2025-03-23 17:15:00.529 - DEBUG - #1951] Connection attempt failed: timeout
+[2025-03-23 17:15:02.515 - DEBUG - #1952] API rate limit reached for client ID #1234
+[2025-03-23 17:15:03.620 - INFO - #1953] File not found: config.json
+[2025-03-23 17:15:04.871 - DEBUG - #1954] Successfully processed batch job #89754
+[2025-03-23 17:15:06.803 - INFO - #1955] Background task started: report generation
+[2025-03-23 17:15:09.264 - INFO - #1956] Data validation error: missing required field
+[2025-03-23 17:15:10.986 - INFO - #1957] API rate limit reached for client ID #1234
+[2025-03-23 17:15:13.977 - INFO - #1958] API rate limit reached for client ID #1234
+[2025-03-23 17:15:16.046 - ERROR - #1959] API rate limit reached for client ID #1234
+[2025-03-23 17:15:17.746 - INFO - #1960] Request received from 192.168.1.1
+[2025-03-23 17:15:19.698 - INFO - #1961] Data validation error: missing required field
+[2025-03-23 17:15:21.227 - INFO - #1962] Authentication successful for user 'admin'
+[2025-03-23 17:15:23.165 - INFO - #1963] Request received from 192.168.1.1
+[2025-03-23 17:15:24.421 - INFO - #1964] Memory usage optimized: freed 250MB
+[2025-03-23 17:15:25.267 - INFO - #1965] Data validation error: missing required field
+[2025-03-23 17:15:26.999 - DEBUG - #1966] Cache miss detected for key 'user_profile'
+[2025-03-23 17:15:29.984 - INFO - #1967] Background task started: report generation
+[2025-03-23 17:15:31.544 - INFO - #1968] Authentication successful for user 'admin'
+[2025-03-23 17:15:34.231 - INFO - #1969] Cache miss detected for key 'user_profile'
+[2025-03-23 17:15:35.167 - WARNING - #1970] API rate limit reached for client ID #1234
+[2025-03-23 17:15:35.929 - INFO - #1971] Request received from 192.168.1.1
+[2025-03-23 17:15:36.951 - INFO - #1972] API rate limit reached for client ID #1234
+[2025-03-23 17:15:37.943 - INFO - #1973] Database query completed in 150ms
+[2025-03-23 17:15:38.789 - INFO - #1974] Background task started: report generation
+[2025-03-23 17:15:40.635 - INFO - #1975] Memory usage optimized: freed 250MB
+[2025-03-23 17:15:42.120 - INFO - #1976] Background task started: report generation
+[2025-03-23 17:15:42.822 - INFO - #1977] API rate limit reached for client ID #1234
+[2025-03-23 17:15:44.161 - DEBUG - #1978] Data validation error: missing required field
+[2025-03-23 17:15:45.149 - INFO - #1979] Processing user request
+[2025-03-23 17:15:46.189 - INFO - #1980] Memory usage optimized: freed 250MB
+[2025-03-23 17:15:46.893 - INFO - #1981] API rate limit reached for client ID #1234
+[2025-03-23 17:15:47.954 - DEBUG - #1982] Successfully processed batch job #89754
+[2025-03-23 17:15:49.901 - INFO - #1983] Data validation error: missing required field
+[2025-03-23 17:15:51.918 - INFO - #1984] File not found: config.json
+[2025-03-23 17:15:53.105 - INFO - #1985] Connection attempt failed: timeout
+[2025-03-23 17:15:54.642 - INFO - #1986] Request received from 192.168.1.1
+[2025-03-23 17:15:55.809 - DEBUG - #1987] Memory usage optimized: freed 250MB
+[2025-03-23 17:15:56.372 - INFO - #1988] Memory usage optimized: freed 250MB
+[2025-03-23 17:15:58.482 - INFO - #1989] Request received from 192.168.1.1
+[2025-03-23 17:16:00.528 - INFO - #1990] Data validation error: missing required field
+[2025-03-23 17:16:02.057 - INFO - #1991] Processing user request
+[2025-03-23 17:16:03.130 - DEBUG - #1992] Database query completed in 150ms
+[2025-03-23 17:16:04.200 - INFO - #1993] Cache miss detected for key 'user_profile'
+[2025-03-23 17:16:05.618 - INFO - #1994] Connection attempt failed: timeout
+[2025-03-23 17:16:07.054 - INFO - #1995] API rate limit reached for client ID #1234
+[2025-03-23 17:16:08.048 - INFO - #1996] Background task started: report generation
+[2025-03-23 17:16:09.393 - DEBUG - #1997] Authentication successful for user 'admin'
+[2025-03-23 17:16:11.121 - INFO - #1998] Database query completed in 150ms
+[2025-03-23 17:16:12.171 - INFO - #1999] Request received from 192.168.1.1
+[2025-03-23 17:16:13.365 - DEBUG - #2000] Cache miss detected for key 'user_profile'
+[2025-03-23 17:16:15.545 - INFO - #2001] Authentication successful for user 'admin'
+[2025-03-23 17:16:17.875 - INFO - #2002] Data validation error: missing required field
+[2025-03-23 17:16:19.283 - INFO - #2003] Processing user request
+[2025-03-23 17:16:20.075 - INFO - #2004] API rate limit reached for client ID #1234
+[2025-03-23 17:16:21.131 - DEBUG - #2005] Connection attempt failed: timeout
+[2025-03-23 17:16:21.949 - DEBUG - #2006] File not found: config.json
+[2025-03-23 17:16:24.037 - INFO - #2007] Cache miss detected for key 'user_profile'
+[2025-03-23 17:16:25.445 - ERROR - #2008] API rate limit reached for client ID #1234
+[2025-03-23 17:16:28.049 - INFO - #2009] API rate limit reached for client ID #1234
+[2025-03-23 17:16:28.765 - INFO - #2010] Memory usage optimized: freed 250MB
+[2025-03-23 17:16:31.153 - INFO - #2011] Successfully processed batch job #89754
+[2025-03-23 17:16:33.281 - DEBUG - #2012] Connection attempt failed: timeout
+[2025-03-23 17:16:36.039 - INFO - #2013] Cache miss detected for key 'user_profile'
+[2025-03-23 17:16:37.397 - WARNING - #2014] Authentication successful for user 'admin'
+[2025-03-23 17:16:39.572 - INFO - #2015] Processing user request
+[2025-03-23 17:16:40.978 - INFO - #2016] Successfully processed batch job #89754
+[2025-03-23 17:16:41.765 - DEBUG - #2017] File not found: config.json
+[2025-03-23 17:16:44.661 - DEBUG - #2018] Data validation error: missing required field
+[2025-03-23 17:16:45.854 - DEBUG - #2019] Successfully processed batch job #89754
+[2025-03-23 17:16:47.823 - WARNING - #2020] Cache miss detected for key 'user_profile'
+[2025-03-23 17:16:50.283 - INFO - #2021] Connection attempt failed: timeout
+[2025-03-23 17:16:50.992 - DEBUG - #2022] Memory usage optimized: freed 250MB
+[2025-03-23 17:16:52.878 - INFO - #2023] Database query completed in 150ms
+[2025-03-23 17:16:54.306 - ERROR - #2024] Database query completed in 150ms
+[2025-03-23 17:16:55.759 - DEBUG - #2025] Successfully processed batch job #89754
+[2025-03-23 17:16:57.145 - INFO - #2026] Successfully processed batch job #89754
+[2025-03-23 17:16:58.074 - DEBUG - #2027] Connection attempt failed: timeout
+[2025-03-23 17:17:00.722 - WARNING - #2028] Successfully processed batch job #89754
+[2025-03-23 17:17:01.892 - INFO - #2029] Cache miss detected for key 'user_profile'
+[2025-03-23 17:17:04.188 - INFO - #2030] Successfully processed batch job #89754
+[2025-03-23 17:17:05.610 - INFO - #2031] Cache miss detected for key 'user_profile'
+[2025-03-23 17:17:07.379 - INFO - #2032] API rate limit reached for client ID #1234
+[2025-03-23 17:17:08.688 - INFO - #2033] Cache miss detected for key 'user_profile'
+[2025-03-23 17:17:09.371 - INFO - #2034] Request received from 192.168.1.1
+[2025-03-23 17:17:12.000 - WARNING - #2035] Request received from 192.168.1.1
+[2025-03-23 17:17:13.714 - WARNING - #2036] Successfully processed batch job #89754
+[2025-03-23 17:17:14.292 - INFO - #2037] Successfully processed batch job #89754
+[2025-03-23 17:17:15.762 - INFO - #2038] Database query completed in 150ms
+[2025-03-23 17:17:17.512 - DEBUG - #2039] API rate limit reached for client ID #1234
+[2025-03-23 17:17:19.116 - DEBUG - #2040] Memory usage optimized: freed 250MB
+[2025-03-23 17:17:21.617 - INFO - #2041] Background task started: report generation
+[2025-03-23 17:17:24.349 - INFO - #2042] Connection attempt failed: timeout
+[2025-03-23 17:17:25.443 - INFO - #2043] Memory usage optimized: freed 250MB
+[2025-03-23 17:17:26.630 - INFO - #2044] Successfully processed batch job #89754
+[2025-03-23 17:17:28.985 - DEBUG - #2045] Request received from 192.168.1.1
+[2025-03-23 17:17:30.629 - INFO - #2046] Authentication successful for user 'admin'
+[2025-03-23 17:17:32.588 - INFO - #2047] Connection attempt failed: timeout
+[2025-03-23 17:17:33.448 - INFO - #2048] API rate limit reached for client ID #1234
+[2025-03-23 17:17:36.308 - DEBUG - #2049] Successfully processed batch job #89754
+[2025-03-23 17:17:36.854 - WARNING - #2050] File not found: config.json
+[2025-03-23 17:17:38.669 - INFO - #2051] Data validation error: missing required field
+[2025-03-23 17:17:39.714 - INFO - #2052] Connection attempt failed: timeout
+[2025-03-23 17:17:42.017 - INFO - #2053] Data validation error: missing required field
+[2025-03-23 17:17:44.812 - WARNING - #2054] Database query completed in 150ms
+[2025-03-23 17:17:46.136 - INFO - #2055] Processing user request
+[2025-03-23 17:17:48.567 - DEBUG - #2056] Memory usage optimized: freed 250MB
+[2025-03-23 17:17:49.499 - INFO - #2057] Background task started: report generation
+[2025-03-23 17:17:51.445 - INFO - #2058] File not found: config.json
+[2025-03-23 17:17:52.053 - INFO - #2059] Request received from 192.168.1.1
+[2025-03-23 17:17:53.079 - INFO - #2060] Successfully processed batch job #89754
+[2025-03-23 17:17:54.090 - INFO - #2061] Successfully processed batch job #89754
+[2025-03-23 17:17:56.145 - DEBUG - #2062] Data validation error: missing required field
+[2025-03-23 17:17:57.175 - INFO - #2063] Request received from 192.168.1.1
+[2025-03-23 17:17:58.585 - INFO - #2064] Authentication successful for user 'admin'
+[2025-03-23 17:18:00.195 - DEBUG - #2065] Authentication successful for user 'admin'
+[2025-03-23 17:18:01.039 - INFO - #2066] Processing user request
+[2025-03-23 17:18:02.872 - WARNING - #2067] File not found: config.json
+[2025-03-23 17:18:04.379 - INFO - #2068] Processing user request
+[2025-03-23 17:18:05.021 - INFO - #2069] Database query completed in 150ms
+[2025-03-23 17:18:06.018 - DEBUG - #2070] Processing user request
+[2025-03-23 17:18:08.159 - INFO - #2071] Database query completed in 150ms
+[2025-03-23 17:18:09.646 - INFO - #2072] Data validation error: missing required field
+[2025-03-23 17:18:10.337 - INFO - #2073] Cache miss detected for key 'user_profile'
+[2025-03-23 17:18:12.015 - DEBUG - #2074] Processing user request
+[2025-03-23 17:18:12.805 - INFO - #2075] Cache miss detected for key 'user_profile'
+[2025-03-23 17:18:14.980 - INFO - #2076] Processing user request
+[2025-03-23 17:18:15.753 - INFO - #2077] Request received from 192.168.1.1
+[2025-03-23 17:18:17.178 - INFO - #2078] Background task started: report generation
+[2025-03-23 17:18:19.012 - INFO - #2079] Request received from 192.168.1.1
+[2025-03-23 17:18:20.846 - WARNING - #2080] Request received from 192.168.1.1
+[2025-03-23 17:18:22.068 - WARNING - #2081] Processing user request
+[2025-03-23 17:18:23.229 - INFO - #2082] API rate limit reached for client ID #1234
+[2025-03-23 17:18:24.240 - DEBUG - #2083] Database query completed in 150ms
+[2025-03-23 17:18:26.172 - INFO - #2084] Connection attempt failed: timeout
+[2025-03-23 17:18:26.918 - INFO - #2085] Authentication successful for user 'admin'
+[2025-03-23 17:18:27.813 - INFO - #2086] Successfully processed batch job #89754
+[2025-03-23 17:18:29.763 - INFO - #2087] Data validation error: missing required field
+[2025-03-23 17:18:32.135 - DEBUG - #2088] Processing user request
+[2025-03-23 17:18:34.715 - INFO - #2089] Background task started: report generation
+[2025-03-23 17:18:37.391 - INFO - #2090] Request received from 192.168.1.1
+[2025-03-23 17:18:38.750 - INFO - #2091] API rate limit reached for client ID #1234
+[2025-03-23 17:18:40.782 - INFO - #2092] Request received from 192.168.1.1
+[2025-03-23 17:18:42.010 - INFO - #2093] Processing user request
+[2025-03-23 17:18:43.313 - INFO - #2094] Authentication successful for user 'admin'
+[2025-03-23 17:18:44.181 - INFO - #2095] Processing user request
+[2025-03-23 17:18:46.590 - DEBUG - #2096] Authentication successful for user 'admin'
+[2025-03-23 17:18:49.579 - INFO - #2097] API rate limit reached for client ID #1234
+[2025-03-23 17:18:51.768 - INFO - #2098] Successfully processed batch job #89754
+[2025-03-23 17:18:53.570 - INFO - #2099] Memory usage optimized: freed 250MB
+[2025-03-23 17:18:55.056 - INFO - #2100] API rate limit reached for client ID #1234
+[2025-03-23 17:18:56.934 - ERROR - #2101] Data validation error: missing required field
+[2025-03-23 17:18:57.631 - INFO - #2102] Data validation error: missing required field
+[2025-03-23 17:18:58.912 - DEBUG - #2103] API rate limit reached for client ID #1234
+[2025-03-23 17:19:00.641 - INFO - #2104] Memory usage optimized: freed 250MB
+[2025-03-23 17:19:01.967 - WARNING - #2105] Cache miss detected for key 'user_profile'
+[2025-03-23 17:19:04.811 - DEBUG - #2106] Authentication successful for user 'admin'
+[2025-03-23 17:19:07.221 - DEBUG - #2107] API rate limit reached for client ID #1234
+[2025-03-23 17:19:08.189 - INFO - #2108] Background task started: report generation
+[2025-03-23 17:19:09.379 - DEBUG - #2109] Processing user request
+[2025-03-23 17:19:11.009 - WARNING - #2110] API rate limit reached for client ID #1234
+[2025-03-23 17:19:12.616 - INFO - #2111] API rate limit reached for client ID #1234
+[2025-03-23 17:19:13.636 - DEBUG - #2112] Processing user request
+[2025-03-23 17:19:16.054 - DEBUG - #2113] Cache miss detected for key 'user_profile'
+[2025-03-23 17:19:16.711 - INFO - #2114] Memory usage optimized: freed 250MB
+[2025-03-23 17:19:17.762 - INFO - #2115] Processing user request
+[2025-03-23 17:19:19.146 - INFO - #2116] Request received from 192.168.1.1
+[2025-03-23 17:19:21.769 - INFO - #2117] Authentication successful for user 'admin'
+[2025-03-23 17:19:24.039 - INFO - #2118] Memory usage optimized: freed 250MB
+[2025-03-23 17:19:25.068 - WARNING - #2119] Authentication successful for user 'admin'
+[2025-03-23 17:19:27.132 - INFO - #2120] Connection attempt failed: timeout
+[2025-03-23 17:19:29.477 - INFO - #2121] File not found: config.json
+[2025-03-23 17:19:31.145 - INFO - #2122] Successfully processed batch job #89754
+[2025-03-23 17:19:31.851 - INFO - #2123] Database query completed in 150ms
+[2025-03-23 17:19:34.799 - INFO - #2124] Request received from 192.168.1.1
+[2025-03-23 17:19:36.988 - DEBUG - #2125] Authentication successful for user 'admin'
+[2025-03-23 17:19:39.963 - INFO - #2126] Database query completed in 150ms
+[2025-03-23 17:19:42.272 - DEBUG - #2127] Connection attempt failed: timeout
+[2025-03-23 17:19:44.751 - INFO - #2128] Database query completed in 150ms
+[2025-03-23 17:19:46.970 - INFO - #2129] Request received from 192.168.1.1
+[2025-03-23 17:19:49.166 - INFO - #2130] Request received from 192.168.1.1
+[2025-03-23 17:19:50.161 - DEBUG - #2131] API rate limit reached for client ID #1234
+[2025-03-23 17:19:52.834 - INFO - #2132] File not found: config.json
+[2025-03-23 17:19:53.445 - INFO - #2133] Request received from 192.168.1.1
+[2025-03-23 17:19:55.858 - INFO - #2134] Data validation error: missing required field
+[2025-03-23 17:19:56.841 - DEBUG - #2135] Cache miss detected for key 'user_profile'
+[2025-03-23 17:19:58.977 - INFO - #2136] API rate limit reached for client ID #1234
+[2025-03-23 17:20:00.729 - INFO - #2137] File not found: config.json
+[2025-03-23 17:20:02.621 - INFO - #2138] Memory usage optimized: freed 250MB
+[2025-03-23 17:20:05.039 - INFO - #2139] API rate limit reached for client ID #1234
+[2025-03-23 17:20:07.752 - DEBUG - #2140] Database query completed in 150ms
+[2025-03-23 17:20:09.787 - INFO - #2141] Authentication successful for user 'admin'
+[2025-03-23 17:20:10.765 - INFO - #2142] Background task started: report generation
+[2025-03-23 17:20:12.139 - DEBUG - #2143] Authentication successful for user 'admin'
+[2025-03-23 17:20:13.095 - INFO - #2144] API rate limit reached for client ID #1234
+[2025-03-23 17:20:14.967 - INFO - #2145] Authentication successful for user 'admin'
+[2025-03-23 17:20:16.645 - WARNING - #2146] Memory usage optimized: freed 250MB
+[2025-03-23 17:20:18.002 - DEBUG - #2147] Successfully processed batch job #89754
+[2025-03-23 17:20:20.333 - DEBUG - #2148] Memory usage optimized: freed 250MB
+[2025-03-23 17:20:23.293 - WARNING - #2149] Processing user request
+[2025-03-23 17:20:24.449 - INFO - #2150] Data validation error: missing required field
+[2025-03-23 17:20:26.253 - INFO - #2151] Request received from 192.168.1.1
+[2025-03-23 17:20:28.662 - INFO - #2152] Database query completed in 150ms
+[2025-03-23 17:20:31.130 - INFO - #2153] Background task started: report generation
+[2025-03-23 17:20:33.039 - INFO - #2154] Request received from 192.168.1.1
+[2025-03-23 17:20:34.013 - INFO - #2155] API rate limit reached for client ID #1234
+[2025-03-23 17:20:36.903 - DEBUG - #2156] Connection attempt failed: timeout
+[2025-03-23 17:20:38.204 - ERROR - #2157] Successfully processed batch job #89754
+[2025-03-23 17:20:41.109 - INFO - #2158] Request received from 192.168.1.1
+[2025-03-23 17:20:42.803 - ERROR - #2159] Processing user request
+[2025-03-23 17:20:45.348 - WARNING - #2160] Data validation error: missing required field
+[2025-03-23 17:20:47.410 - INFO - #2161] Background task started: report generation
+[2025-03-23 17:20:49.656 - INFO - #2162] API rate limit reached for client ID #1234
+[2025-03-23 17:20:52.602 - INFO - #2163] File not found: config.json
+[2025-03-23 17:20:55.513 - INFO - #2164] Connection attempt failed: timeout
+[2025-03-23 17:20:56.246 - INFO - #2165] File not found: config.json
+[2025-03-23 17:20:59.101 - INFO - #2166] Authentication successful for user 'admin'
+[2025-03-23 17:21:00.294 - INFO - #2167] Data validation error: missing required field
+[2025-03-23 17:21:02.253 - INFO - #2168] API rate limit reached for client ID #1234
+[2025-03-23 17:21:04.335 - WARNING - #2169] Request received from 192.168.1.1
+[2025-03-23 17:21:06.555 - INFO - #2170] API rate limit reached for client ID #1234
+[2025-03-23 17:21:09.265 - DEBUG - #2171] Background task started: report generation
+[2025-03-23 17:21:10.586 - INFO - #2172] File not found: config.json
+[2025-03-23 17:21:11.734 - INFO - #2173] Data validation error: missing required field
+[2025-03-23 17:21:12.385 - INFO - #2174] Authentication successful for user 'admin'
+[2025-03-23 17:21:13.083 - WARNING - #2175] Background task started: report generation
+[2025-03-23 17:21:15.532 - ERROR - #2176] Database query completed in 150ms
+[2025-03-23 17:21:18.358 - WARNING - #2177] File not found: config.json
+[2025-03-23 17:21:20.496 - INFO - #2178] Cache miss detected for key 'user_profile'
+[2025-03-23 17:21:23.222 - INFO - #2179] Successfully processed batch job #89754
+[2025-03-23 17:21:24.455 - INFO - #2180] Request received from 192.168.1.1
+[2025-03-23 17:21:26.026 - DEBUG - #2181] Processing user request
+[2025-03-23 17:21:27.399 - DEBUG - #2182] Successfully processed batch job #89754
+[2025-03-23 17:21:29.781 - INFO - #2183] File not found: config.json
+[2025-03-23 17:21:31.622 - INFO - #2184] Successfully processed batch job #89754
+[2025-03-23 17:21:32.173 - WARNING - #2185] Processing user request
+[2025-03-23 17:21:34.307 - INFO - #2186] Memory usage optimized: freed 250MB
+[2025-03-23 17:21:35.497 - INFO - #2187] Memory usage optimized: freed 250MB
+[2025-03-23 17:21:38.453 - INFO - #2188] API rate limit reached for client ID #1234
+[2025-03-23 17:21:40.273 - DEBUG - #2189] API rate limit reached for client ID #1234
+[2025-03-23 17:21:41.329 - INFO - #2190] Authentication successful for user 'admin'
+[2025-03-23 17:21:42.562 - DEBUG - #2191] Memory usage optimized: freed 250MB
+[2025-03-23 17:21:44.088 - DEBUG - #2192] API rate limit reached for client ID #1234
+[2025-03-23 17:21:45.739 - WARNING - #2193] Cache miss detected for key 'user_profile'
+[2025-03-23 17:21:47.829 - INFO - #2194] Processing user request
+[2025-03-23 17:21:48.991 - INFO - #2195] Background task started: report generation
+[2025-03-23 17:21:49.530 - INFO - #2196] Data validation error: missing required field
+[2025-03-23 17:21:51.367 - DEBUG - #2197] API rate limit reached for client ID #1234
+[2025-03-23 17:21:52.667 - DEBUG - #2198] File not found: config.json
+[2025-03-23 17:21:55.541 - INFO - #2199] Memory usage optimized: freed 250MB
+[2025-03-23 17:21:57.004 - DEBUG - #2200] Memory usage optimized: freed 250MB
+[2025-03-23 17:21:58.138 - INFO - #2201] Authentication successful for user 'admin'
