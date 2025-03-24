@@ -1,25 +1,21 @@
-# Log Monitor TUI
+# TUI Log Monitor
 
-A terminal-based log monitoring tool built to practice TUI development concepts in preparation for the Crankshaft monitoring dashboard project.
+A terminal-based system log monitoring dashboard with real-time updates, advanced filtering, and visualization.
 
-## Project Purpose
+## screenshots
 
-This application was created as a learning project to explore terminal user interface concepts, particularly:
-- Real-time data monitoring and display
-- User interaction with keyboard shortcuts
-- Structured display of log information
-- Statistics and data visualization in the terminal
+![Log Monitoring View](/screenshots/log_view.png)
 
-## Features
+# keyboard shortcuts and help
 
-- Multi-view interface (Logs, Statistics, Help)
-- Real-time log monitoring with auto-follow
-- Filtering system for finding specific log entries
-- Color-coded log levels
-- Customizable display options (timestamps, line numbers)
-- Statistics view with log level distribution
+KeyActionTabSwitch viewsFToggle follow mode/Enter filter modeTToggle timestampsNToggle line numbers↑/↓Scroll up/downPgUp/PgDnPage up/downQQuit
 
-## Usage
+# usage
 
-```bash
-cargo run --bin log_monitor /path/to/logfile.log
+# Monitor system logs
+
+sudo cargo run --bin log_monitor /var/log/system.log
+
+# Monitor any log file
+
+cargo run --bin log_monitor /path/to/log/file.log
